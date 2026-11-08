@@ -1,5 +1,9 @@
 # German Nursing Interviews — an LLM benchmark for Mayring qualitative content analysis
 
+> ## 🔬 Live demonstrator → **https://akmaier.github.io/German-nursing-interviews/**
+> Paste German nursing-interview text and get its Mayring main category (one of 27),
+> powered by NVIDIA Nemotron. Built on the released category system — no interview data involved.
+
 Code and anonymized data for the study *"Large language models reproduce the structure of expert
 qualitative content analysis in German nursing interviews"* (R. Zöllner, S. Mages, A. Maier).
 
