@@ -1,0 +1,408 @@
+{
+"model": "fable",
+"set": "human_100",
+"result": {
+"verdicts": [
+{
+"id": 1165,
+"verdict": "related"
+},
+{
+"id": 412,
+"verdict": "same"
+},
+{
+"id": 3900,
+"verdict": "related"
+},
+{
+"id": 164,
+"verdict": "different"
+},
+{
+"id": 2114,
+"verdict": "different"
+},
+{
+"id": 2966,
+"verdict": "related"
+},
+{
+"id": 3057,
+"verdict": "related"
+},
+{
+"id": 3391,
+"verdict": "same"
+},
+{
+"id": 697,
+"verdict": "same"
+},
+{
+"id": 3821,
+"verdict": "related"
+},
+{
+"id": 3760,
+"verdict": "different"
+},
+{
+"id": 46,
+"verdict": "same"
+},
+{
+"id": 1005,
+"verdict": "same"
+},
+{
+"id": 2053,
+"verdict": "related"
+},
+{
+"id": 1437,
+"verdict": "same"
+},
+{
+"id": 179,
+"verdict": "same"
+},
+{
+"id": 3672,
+"verdict": "same"
+},
+{
+"id": 1619,
+"verdict": "related"
+},
+{
+"id": 1874,
+"verdict": "same"
+},
+{
+"id": 2819,
+"verdict": "same"
+},
+{
+"id": 953,
+"verdict": "different"
+},
+{
+"id": 193,
+"verdict": "related"
+},
+{
+"id": 2,
+"verdict": "same"
+},
+{
+"id": 2001,
+"verdict": "same"
+},
+{
+"id": 2461,
+"verdict": "related"
+},
+{
+"id": 3735,
+"verdict": "related"
+},
+{
+"id": 3363,
+"verdict": "different"
+},
+{
+"id": 2235,
+"verdict": "same"
+},
+{
+"id": 295,
+"verdict": "related"
+},
+{
+"id": 710,
+"verdict": "same"
+},
+{
+"id": 2873,
+"verdict": "different"
+},
+{
+"id": 3709,
+"verdict": "related"
+},
+{
+"id": 3388,
+"verdict": "related"
+},
+{
+"id": 2036,
+"verdict": "same"
+},
+{
+"id": 2744,
+"verdict": "related"
+},
+{
+"id": 3285,
+"verdict": "related"
+},
+{
+"id": 3603,
+"verdict": "related"
+},
+{
+"id": 3762,
+"verdict": "same"
+},
+{
+"id": 1241,
+"verdict": "related"
+},
+{
+"id": 709,
+"verdict": "related"
+},
+{
+"id": 894,
+"verdict": "same"
+},
+{
+"id": 3621,
+"verdict": "related"
+},
+{
+"id": 2087,
+"verdict": "same"
+},
+{
+"id": 1453,
+"verdict": "same"
+},
+{
+"id": 984,
+"verdict": "different"
+},
+{
+"id": 2451,
+"verdict": "different"
+},
+{
+"id": 492,
+"verdict": "same"
+},
+{
+"id": 1841,
+"verdict": "related"
+},
+{
+"id": 615,
+"verdict": "same"
+},
+{
+"id": 917,
+"verdict": "related"
+},
+{
+"id": 3571,
+"verdict": "different"
+},
+{
+"id": 1815,
+"verdict": "same"
+},
+{
+"id": 721,
+"verdict": "related"
+},
+{
+"id": 605,
+"verdict": "related"
+},
+{
+"id": 2482,
+"verdict": "related"
+},
+{
+"id": 1653,
+"verdict": "same"
+},
+{
+"id": 3857,
+"verdict": "related"
+},
+{
+"id": 2615,
+"verdict": "same"
+},
+{
+"id": 1786,
+"verdict": "different"
+},
+{
+"id": 3209,
+"verdict": "related"
+},
+{
+"id": 3236,
+"verdict": "different"
+},
+{
+"id": 2549,
+"verdict": "same"
+},
+{
+"id": 3911,
+"verdict": "related"
+},
+{
+"id": 2959,
+"verdict": "related"
+},
+{
+"id": 2778,
+"verdict": "same"
+},
+{
+"id": 1634,
+"verdict": "related"
+},
+{
+"id": 2592,
+"verdict": "same"
+},
+{
+"id": 409,
+"verdict": "related"
+},
+{
+"id": 2354,
+"verdict": "related"
+},
+{
+"id": 2786,
+"verdict": "related"
+},
+{
+"id": 223,
+"verdict": "same"
+},
+{
+"id": 1407,
+"verdict": "related"
+},
+{
+"id": 2695,
+"verdict": "different"
+},
+{
+"id": 1942,
+"verdict": "related"
+},
+{
+"id": 604,
+"verdict": "same"
+},
+{
+"id": 585,
+"verdict": "same"
+},
+{
+"id": 2961,
+"verdict": "related"
+},
+{
+"id": 1489,
+"verdict": "related"
+},
+{
+"id": 1339,
+"verdict": "different"
+},
+{
+"id": 663,
+"verdict": "related"
+},
+{
+"id": 735,
+"verdict": "different"
+},
+{
+"id": 2173,
+"verdict": "related"
+},
+{
+"id": 1011,
+"verdict": "same"
+},
+{
+"id": 937,
+"verdict": "related"
+},
+{
+"id": 3455,
+"verdict": "related"
+},
+{
+"id": 527,
+"verdict": "related"
+},
+{
+"id": 538,
+"verdict": "related"
+},
+{
+"id": 555,
+"verdict": "same"
+},
+{
+"id": 1864,
+"verdict": "same"
+},
+{
+"id": 1384,
+"verdict": "related"
+},
+{
+"id": 1997,
+"verdict": "different"
+},
+{
+"id": 1359,
+"verdict": "same"
+},
+{
+"id": 1973,
+"verdict": "related"
+},
+{
+"id": 1343,
+"verdict": "related"
+},
+{
+"id": 1901,
+"verdict": "related"
+},
+{
+"id": 1355,
+"verdict": "related"
+},
+{
+"id": 3005,
+"verdict": "different"
+},
+{
+"id": 2868,
+"verdict": "related"
+},
+{
+"id": 1580,
+"verdict": "same"
+},
+{
+"id": 2910,
+"verdict": "related"
+}
+]
+}
+}

@@ -1,0 +1,299 @@
+[
+ {
+  "id": "RQ1-M01",
+  "name": "Berufsverbleib & Berufszufriedenheit",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Gründe im Beruf zu bleiben, Zufriedenheit, Sinn und Wert der Pflegearbeit.",
+  "anchors": [
+   "Verbleib im Beruf",
+   "Pflegende leben den Wert der Pflege",
+   "Zufrieden mit dem Beruf"
+  ]
+ },
+ {
+  "id": "RQ1-M02",
+  "name": "Ausstiegsgründe & berufliche Belastung",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Gründe den Beruf zu verlassen; körperliche/psychische Belastung, Personalmangel, Krankheit.",
+  "anchors": [
+   "Ausstieg aus dem Beruf wegen beruflicher Weiterentwicklung",
+   "Körperliche oder psychixsche belastung als Grund für den Ausstieg aus dem Beruf",
+   "Gründe für den Ausstieg aus dem Beruf müssen abgebaut werden"
+  ]
+ },
+ {
+  "id": "RQ1-M03",
+  "name": "Arbeitszeit, Dienstplan & Flexibilität",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Schicht-/Wochenenddienst, Teilzeit, Einspringen, flexible und familienfreundliche Arbeitszeiten.",
+  "anchors": [
+   "Flexible, familienfreundliche, selbstbestimmte Arbeitszeiten ohne Einspringbereitsschaft",
+   "Teilzeit statt Vollzeit seitens Arbeitnehmer",
+   "Freizeitgestaltung weniger Flexibel aber planbar"
+  ]
+ },
+ {
+  "id": "RQ1-M04",
+  "name": "Vergütung & finanzielle Anreize",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Gehalt, Entlohnung, Prämien und finanzielle Belohnung als Anreiz oder Streitpunkt.",
+  "anchors": [
+   "Geld und Prämien als Anreiz weniger wichtig",
+   "Rahmenbedingung gutes Gehalt positiv",
+   "Prämien gegenüber neutral und ohne Kenntnis"
+  ]
+ },
+ {
+  "id": "RQ1-M05",
+  "name": "Gesundheitsförderung & Arbeitsumfeld",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Betriebliches Gesundheitsmanagement, Arbeitsklima, Sicherheit und Attraktivität des Arbeitsplatzes.",
+  "anchors": [
+   "Gesundheitsförderung am Arbeitsplatz",
+   "Vermehrung der Pflegefachkräfte durch Reduktion der Krankheitstage",
+   "Mitarbeiter halten durch gutes Betriebsklima"
+  ]
+ },
+ {
+  "id": "RQ1-M06",
+  "name": "Image & Ansehen des Pflegeberufs",
+  "dimension": "Image & Anerkennung",
+  "definition": "Gesellschaftliches und innerberufliches Image, Ansehen, Wording/Begrifflichkeiten.",
+  "anchors": [
+   "Motivation zum Beruf durch Ansehen des Berufes",
+   "Image der Pflege negativ innerhalb der Berufsgruppe",
+   "Image Pflege gesellschaftlich vertrauenswürdiger Beruf"
+  ]
+ },
+ {
+  "id": "RQ1-M07",
+  "name": "Wertschätzung & Anerkennung",
+  "dimension": "Image & Anerkennung",
+  "definition": "Wertschätzung und Anerkennung durch Gesellschaft, Arbeitgeber, Patienten oder Management.",
+  "anchors": [
+   "Wertschätzung des oberen Managements gegenüber dem mittleren Management",
+   "Worte statt Taten bei Wertschätzung gesellschaftlich",
+   "Wertschätzung der Mitarbeitenden als Angebot"
+  ]
+ },
+ {
+  "id": "RQ1-M08",
+  "name": "Außendarstellung, Marketing & Öffentlichkeitsarbeit",
+  "dimension": "Image & Anerkennung",
+  "definition": "Darstellung von Beruf und Einrichtung nach außen, Marketing, PR, Werbung für den Beruf.",
+  "anchors": [
+   "Werbund für den Beruf mit internationalen Möglichkeiten",
+   "Darstellung des Hauses",
+   "Darstellugn des Berufes an sich"
+  ]
+ },
+ {
+  "id": "RQ1-M09",
+  "name": "Motivation & Eignung des Personals",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Intrinsische/extrinsische Motivation; geeignetes vs. ungeeignetes Personal, Personalauswahl.",
+  "anchors": [
+   "Extrinsische Motivation ungern bei Rekrutierung",
+   "Ungeeignetes Personal aus dem Beruf entfernen",
+   "Intrinsische Motivation bei Rekrutierung"
+  ]
+ },
+ {
+  "id": "RQ1-M10",
+  "name": "Karriere & Karrierewege",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Karrierepfade, Aufstieg, Verantwortungsübernahme, Karrierehürden (u.a. für Frauen).",
+  "anchors": [
+   "Weiterbildung als Karriere wichtig",
+   "Übernahme von Verantwortung",
+   "Unterschiedliche Karrierewege, auch unabhängig von Akademisierung"
+  ]
+ },
+ {
+  "id": "RQ1-M11",
+  "name": "Weiterbildung & Personalentwicklung",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Weiterbildung, gezielte und individuelle Personalentwicklung als Förderung.",
+  "anchors": [
+   "Weiterentwicklung als Wertschätzung ohne finanziellen Vorteil",
+   "Verantwortung und Projektübertragung",
+   "Rollenentwicklung mit Zukunftsperspektive"
+  ]
+ },
+ {
+  "id": "RQ1-M12",
+  "name": "Ausbildung & Akademisierung",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Ausbildungssystem, Studium vs. Ausbildung, Akademisierung, Pflegewissenschaft, Kompetenzzuschreibung.",
+  "anchors": [
+   "Problem ist allgemein die Doppelschiene Ausbildung und Studium",
+   "Ausbildung in Deutschland ist sehr gut",
+   "Vernetzung Pflegewissenschaft und Praxis"
+  ]
+ },
+ {
+  "id": "RQ1-M13",
+  "name": "Autonomie, Rollenklarheit & pflegerische Kompetenz",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Autonomes Arbeiten, Selbstbewusstsein, Rollenklarheit, Professionalisierung und Kompetenzübertragung.",
+  "anchors": [
+   "Selbstbewusste Pflege erwünscht",
+   "Pflegeberuf als Dienstleistung",
+   "Selbstbewusstsein in der Berufsgruppe Pflege nicht vorhanden"
+  ]
+ },
+ {
+  "id": "RQ1-M14",
+  "name": "Team & Zusammenarbeit",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Team, Zusammenhalt, Teamkultur und gemeinsames Lernen.",
+  "anchors": [
+   "Team positiv",
+   "Steigerung des Teamgefühls durch gemeinsames Lernen und Erfahren",
+   "Förderung der Team- und Entwicklungskultur durch die Führungsperson notwendig"
+  ]
+ },
+ {
+  "id": "RQ1-M15",
+  "name": "Rolle & Haltung der Führung",
+  "dimension": "Management & Führung",
+  "definition": "Rolle, Haltung und Verhalten der (Pflege-)Leitung; hinter dem Personal stehen, Vertrauen, Personenorientierung.",
+  "anchors": [
+   "Gute Führung ist notwendig",
+   "Negative Auswirkung wenn Leitung jedem alles Recht machen will",
+   "Wie die Leitung hinter dem Personal steht ist individuell"
+  ]
+ },
+ {
+  "id": "RQ1-M16",
+  "name": "Führungskompetenz & Managementausbildung",
+  "dimension": "Management & Führung",
+  "definition": "Führungs- und Methodenkompetenz, Ausbildung/Besetzung des Managements, innovative Managementansätze.",
+  "anchors": [
+   "Beste Ausbildung als Lösung für die Karriere im Management",
+   "Innovative Managmentansätze",
+   "Oberer Führungsebene nicht optimal besetzt"
+  ]
+ },
+ {
+  "id": "RQ1-M17",
+  "name": "Mitarbeiterbindung & -förderung",
+  "dimension": "Management & Führung",
+  "definition": "Maßnahmen des Managements zur Bindung und individuellen Förderung der Mitarbeitenden.",
+  "anchors": [
+   "Förderung des Personals als Lösung",
+   "Wünsche des bestehenden Personals beachten, damit diese nicht ausscheiden",
+   "Problemde der Mitarbeitenden ernst nehmen wie Familie, Rückenschmerzen"
+  ]
+ },
+ {
+  "id": "RQ1-M18",
+  "name": "Rückgewinnung & Wiedereinstieg",
+  "dimension": "Rückgewinnung & Rekrutierung",
+  "definition": "Rückgewinnungsprogramme, Ansprache, Bedingungen und Onboarding für Rückkehrende; Ausstiegsgründe als Ansatzpunkt.",
+  "anchors": [
+   "Langjährig ausgeschiedene Mitarbeiter benötigen Onboarding für den Wiedereinstieg",
+   "Rückkehrer haben Angst vor unbekannten Systemen",
+   "Negative Auswirkugen der Rückgewinnungsprogramme auf die Arbeitenden"
+  ]
+ },
+ {
+  "id": "RQ1-M19",
+  "name": "Rekrutierung & Personalgewinnung",
+  "dimension": "Rückgewinnung & Rekrutierung",
+  "definition": "Personalgewinnung über Mitarbeitende, Mundpropaganda, Social Media, Arbeitgeberattraktivität, Anwerbung.",
+  "anchors": [
+   "Rekrutierung durch die Mitarbeiter",
+   "Rekrutierung durch Mundpropaganda",
+   "Digitaliserung zur Anwerbung Sozial Media"
+  ]
+ },
+ {
+  "id": "RQ1-M20",
+  "name": "Digitalisierung: Implementierung & Akzeptanz",
+  "dimension": "Digitalisierung & Robotik",
+  "definition": "Einführung digitaler Systeme, Strategie, Akzeptanz, Widerstand, Anwenderfreundlichkeit, Fehlerkultur.",
+  "anchors": [
+   "Digitalisiserung Implementierungsstrategie notwendig",
+   "Digitalisierung individuell an das Unternehmen anpassen",
+   "Akzeptanz der Digitalisierung bei Anwenderfreundlichkeit udn Arbietserleichterung"
+  ]
+ },
+ {
+  "id": "RQ1-M21",
+  "name": "Digitalisierung: Nutzen & Entlastung",
+  "dimension": "Digitalisierung & Robotik",
+  "definition": "Nutzen der Digitalisierung: Dokumentation, Entlastung, Zeitersparnis, Patientensicherheit, Kommunikation.",
+  "anchors": [
+   "Einsatz von Digitalisiserugn zur Unterstützung der Pflege",
+   "Unnötige Doppeldokumentation als Problem",
+   "Unerwartete und ungeplante Vorteile durch Digitalisierung"
+  ]
+ },
+ {
+  "id": "RQ1-M22",
+  "name": "Digitalisierung: Finanzierung, Recht & Interoperabilität",
+  "dimension": "Digitalisierung & Robotik",
+  "definition": "Finanzierung/Refinanzierung, rechtliche Vorgaben, Schnittstellen, Interoperabilität, Datenschutz, Verlässlichkeit.",
+  "anchors": [
+   "Digitalisiseurng Regularien und Schnittstellenproblematik",
+   "Digitalisierung ist ausgelegt auf die Geldgeber",
+   "Regelung der Refinanzierung und Kostendeckung des Personalaufwandes und der Wartung der Digitalisierung notwendig"
+  ]
+ },
+ {
+  "id": "RQ1-M23",
+  "name": "Robotik & technische Assistenzsysteme",
+  "dimension": "Digitalisierung & Robotik",
+  "definition": "Roboter, Notruf-/Assistenzsysteme, technische Sicherheit, Unterstützung der Selbständigkeit.",
+  "anchors": [
+   "Kombination digitaler Systeme für selbstbestimmtes Leben",
+   "Einsatz aktueller bedarfsgerechter Roboter zur Entlastung",
+   "Sicherheit durch technische Systeme"
+  ]
+ },
+ {
+  "id": "RQ1-M24",
+  "name": "Pflegepolitik & Interessenvertretung",
+  "dimension": "Politik & System",
+  "definition": "Politische Vertretung der Pflege, Verbände/Selbstverwaltung, Einigkeit/Fragmentierung, berufspolitisches Engagement.",
+  "anchors": [
+   "Negativspirale als selbsterfüllende Prophezeihung",
+   "Fachliche Aspekte für Politiker verständlich zusammenfassen",
+   "Politisches Agieren oft nicht sichtbar, da das Problem schneller ist"
+  ]
+ },
+ {
+  "id": "RQ1-M25",
+  "name": "Gesundheitssystem: Struktur & Finanzierung",
+  "dimension": "Politik & System",
+  "definition": "Systemstruktur, Finanzierung/Sparen, Tarif, Strukturwandel, Personalschlüssel, Qualität/Regulierung.",
+  "anchors": [
+   "Stärkung pflegender Angehöriger um das System zu entlasten",
+   "Sinnvollle neue Regelungen für Qualitätsüberprüfungen notwendig.",
+   "Sparen an der richtigen Stelle"
+  ]
+ },
+ {
+  "id": "RQ1-M26",
+  "name": "Internationalisierung & globaler Arbeitsmarkt",
+  "dimension": "Internationalisierung",
+  "definition": "Internationaler Vergleich, weltweiter Wettbewerb um Pflegekräfte, Sprache, internationale Vernetzung.",
+  "anchors": [
+   "Pfelge als Ausbildung mit Internationaler Perspektive Care and Travel",
+   "Deutschland im weltweitern Kampf um Pfelgekräft im Nachteil durch die Sprache",
+   "Übertragung internationaler Erfahrungen auf die Heimat"
+  ]
+ },
+ {
+  "id": "RQ1-M27",
+  "name": "Datengrundlage & Registrierung",
+  "dimension": "Politik & System",
+  "definition": "Fehlende Daten über (ausgeschiedene) Pflegekräfte, Pflichtregistrierung als Datengrundlage.",
+  "anchors": [
+   "Wichtig sind Daten über ausgeschieden Pflegekräfte",
+   "Registrierung für verlässliche Daten notwendig",
+   "Pflichtregistrierung als Möglichketi der Kontaktausfnahme zur Rückgewinnung"
+  ]
+ }
+]

@@ -1,0 +1,686 @@
+﻿passage_id;gold_main;pred_main;gold_dim;pred_dim;main_ok;dim_ok
+R0673;RQ1-M01;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0484;RQ1-M01;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0045;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0612;RQ1-M01;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0628;RQ1-M01;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0142;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0408;RQ1-M02;RQ1-M10;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0169;RQ1-M02;RQ1-M13;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0421;RQ1-M02;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0637;RQ1-M01;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0291;RQ1-M01;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0431;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0275;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0655;RQ1-M14;RQ1-M14;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0418;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0679;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0187;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0160;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0182;RQ1-M03;RQ1-M13;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0584;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0351;RQ1-M03;RQ1-M15;Berufsverbleib & Arbeitsbedingungen;Management & Führung;0;0
+R0389;RQ1-M03;RQ1-M15;Berufsverbleib & Arbeitsbedingungen;Management & Führung;0;0
+R0282;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0580;RQ1-M18;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;0;1
+R0579;RQ1-M14;RQ1-M14;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0510;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0305;RQ1-M04;RQ1-M19;Berufsverbleib & Arbeitsbedingungen;Rückgewinnung & Rekrutierung;0;0
+R0339;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0368;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0592;RQ1-M09;RQ1-M01;Qualifikation, Entwicklung & Profession;Berufsverbleib & Arbeitsbedingungen;0;0
+R0470;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0544;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0453;RQ1-M18;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;0;1
+R0242;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0301;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0036;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0486;RQ1-M09;RQ1-M07;Qualifikation, Entwicklung & Profession;Image & Anerkennung;0;0
+R0565;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0074;RQ1-M06;RQ1-M07;Image & Anerkennung;Image & Anerkennung;0;1
+R0505;RQ1-M06;RQ1-M07;Image & Anerkennung;Image & Anerkennung;0;1
+R0493;RQ1-M06;RQ1-M09;Image & Anerkennung;Qualifikation, Entwicklung & Profession;0;0
+R0209;RQ1-M06;RQ1-M01;Image & Anerkennung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0210;RQ1-M01;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0629;RQ1-M01;RQ1-M10;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0459;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0501;RQ1-M18;RQ1-M06;Rückgewinnung & Rekrutierung;Image & Anerkennung;0;0
+R0450;RQ1-M18;RQ1-M02;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0297;RQ1-M18;RQ1-M03;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0568;RQ1-M06;RQ1-M02;Image & Anerkennung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0315;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0227;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0372;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0641;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0265;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0504;RQ1-M03;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0216;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0411;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0322;RQ1-M07;RQ1-M07;Image & Anerkennung;Image & Anerkennung;1;1
+R0088;RQ1-M06;RQ1-M25;Image & Anerkennung;Politik & System;0;0
+R0439;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0480;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0546;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0004;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0495;RQ1-M06;RQ1-M07;Image & Anerkennung;Image & Anerkennung;0;1
+R0358;RQ1-M07;RQ1-M07;Image & Anerkennung;Image & Anerkennung;1;1
+R0240;RQ1-M10;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0225;RQ1-M11;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0293;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0564;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0482;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0602;RQ1-M10;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0218;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0353;RQ1-M13;RQ1-M14;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0309;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0025;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0582;RQ1-M13;RQ1-M07;Qualifikation, Entwicklung & Profession;Image & Anerkennung;0;0
+R0015;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0324;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0455;RQ1-M13;RQ1-M25;Qualifikation, Entwicklung & Profession;Politik & System;0;0
+R0648;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0420;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0588;RQ1-M10;RQ1-M25;Qualifikation, Entwicklung & Profession;Politik & System;0;0
+R0321;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0676;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0668;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0425;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0223;RQ1-M12;RQ1-M25;Qualifikation, Entwicklung & Profession;Politik & System;0;0
+R0644;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0643;RQ1-M18;RQ1-M01;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0279;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0158;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0136;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0176;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0599;RQ1-M15;RQ1-M18;Management & Führung;Rückgewinnung & Rekrutierung;0;0
+R0381;RQ1-M18;RQ1-M04;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0507;RQ1-M15;RQ1-M02;Management & Führung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0129;RQ1-M03;RQ1-M25;Berufsverbleib & Arbeitsbedingungen;Politik & System;0;0
+R0103;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0652;RQ1-M15;RQ1-M17;Management & Führung;Management & Führung;0;1
+R0120;RQ1-M15;RQ1-M17;Management & Führung;Management & Führung;0;1
+R0205;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0567;RQ1-M09;RQ1-M04;Qualifikation, Entwicklung & Profession;Berufsverbleib & Arbeitsbedingungen;0;0
+R0349;RQ1-M11;RQ1-M11;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0185;RQ1-M17;RQ1-M11;Management & Führung;Qualifikation, Entwicklung & Profession;0;0
+R0523;RQ1-M17;RQ1-M11;Management & Führung;Qualifikation, Entwicklung & Profession;0;0
+R0633;RQ1-M17;RQ1-M17;Management & Führung;Management & Führung;1;1
+R0302;RQ1-M05;RQ1-M17;Berufsverbleib & Arbeitsbedingungen;Management & Führung;0;0
+R0143;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0032;RQ1-M15;RQ1-M17;Management & Führung;Management & Führung;0;1
+R0540;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0018;RQ1-M03;RQ1-M17;Berufsverbleib & Arbeitsbedingungen;Management & Führung;0;0
+R0674;RQ1-M05;RQ1-M17;Berufsverbleib & Arbeitsbedingungen;Management & Führung;0;0
+R0313;RQ1-M15;RQ1-M03;Management & Führung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0364;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0615;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0467;RQ1-M15;RQ1-M14;Management & Führung;Qualifikation, Entwicklung & Profession;0;0
+R0340;RQ1-M14;RQ1-M18;Qualifikation, Entwicklung & Profession;Rückgewinnung & Rekrutierung;0;0
+R0256;RQ1-M15;RQ1-M18;Management & Führung;Rückgewinnung & Rekrutierung;0;0
+R0249;RQ1-M15;RQ1-M07;Management & Führung;Image & Anerkennung;0;0
+R0060;RQ1-M15;RQ1-M18;Management & Führung;Rückgewinnung & Rekrutierung;0;0
+R0560;RQ1-M15;RQ1-M18;Management & Führung;Rückgewinnung & Rekrutierung;0;0
+R0064;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0084;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0108;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0502;RQ1-M22;RQ1-M08;Digitalisierung & Robotik;Image & Anerkennung;0;0
+R0423;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0113;RQ1-M08;RQ1-M08;Image & Anerkennung;Image & Anerkennung;1;1
+R0492;RQ1-M08;RQ1-M08;Image & Anerkennung;Image & Anerkennung;1;1
+R0512;RQ1-M08;RQ1-M08;Image & Anerkennung;Image & Anerkennung;1;1
+R0212;RQ1-M08;RQ1-M08;Image & Anerkennung;Image & Anerkennung;1;1
+R0619;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0228;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0208;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0395;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0126;RQ1-M07;RQ1-M07;Image & Anerkennung;Image & Anerkennung;1;1
+R0251;RQ1-M11;RQ1-M11;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0264;RQ1-M24;RQ1-M25;Politik & System;Politik & System;0;1
+R0300;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0361;RQ1-M24;RQ1-M17;Politik & System;Management & Führung;0;0
+R0055;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0096;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0038;RQ1-M09;RQ1-M11;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0159;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0020;RQ1-M09;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0325;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0378;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0037;RQ1-M09;RQ1-M02;Qualifikation, Entwicklung & Profession;Berufsverbleib & Arbeitsbedingungen;0;0
+R0346;RQ1-M09;RQ1-M16;Qualifikation, Entwicklung & Profession;Management & Führung;0;0
+R0260;RQ1-M09;RQ1-M17;Qualifikation, Entwicklung & Profession;Management & Führung;0;0
+R0106;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0386;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0424;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0161;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0428;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0638;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0258;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0010;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0623;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0548;RQ1-M03;RQ1-M07;Berufsverbleib & Arbeitsbedingungen;Image & Anerkennung;0;0
+R0118;RQ1-M18;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;0;1
+R0104;RQ1-M13;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0513;RQ1-M07;RQ1-M06;Image & Anerkennung;Image & Anerkennung;0;1
+R0062;RQ1-M07;RQ1-M07;Image & Anerkennung;Image & Anerkennung;1;1
+R0461;RQ1-M07;RQ1-M06;Image & Anerkennung;Image & Anerkennung;0;1
+R0206;RQ1-M24;RQ1-M08;Politik & System;Image & Anerkennung;0;0
+R0204;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0058;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0177;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0141;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0017;RQ1-M18;RQ1-M02;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0412;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0344;RQ1-M18;RQ1-M10;Rückgewinnung & Rekrutierung;Qualifikation, Entwicklung & Profession;0;0
+R0030;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0331;RQ1-M15;RQ1-M17;Management & Führung;Management & Führung;0;1
+R0399;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0076;RQ1-M19;RQ1-M08;Rückgewinnung & Rekrutierung;Image & Anerkennung;0;0
+R0124;RQ1-M05;RQ1-M09;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0288;RQ1-M05;RQ1-M09;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0196;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0115;RQ1-M10;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0529;RQ1-M17;RQ1-M13;Management & Führung;Qualifikation, Entwicklung & Profession;0;0
+R0067;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0437;RQ1-M05;RQ1-M17;Berufsverbleib & Arbeitsbedingungen;Management & Führung;0;0
+R0065;RQ1-M15;RQ1-M17;Management & Führung;Management & Führung;0;1
+R0410;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0535;RQ1-M15;RQ1-M17;Management & Führung;Management & Führung;0;1
+R0356;RQ1-M07;RQ1-M17;Image & Anerkennung;Management & Führung;0;0
+R0262;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0656;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0167;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0028;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0367;RQ1-M16;RQ1-M16;Management & Führung;Management & Führung;1;1
+R0226;RQ1-M15;RQ1-M13;Management & Führung;Qualifikation, Entwicklung & Profession;0;0
+R0485;RQ1-M16;RQ1-M16;Management & Führung;Management & Führung;1;1
+R0600;RQ1-M16;RQ1-M08;Management & Führung;Image & Anerkennung;0;0
+R0131;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0429;RQ1-M10;RQ1-M11;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0352;RQ1-M10;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0474;RQ1-M10;RQ1-M15;Qualifikation, Entwicklung & Profession;Management & Führung;0;0
+R0179;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0308;RQ1-M15;RQ1-M16;Management & Führung;Management & Führung;0;1
+R0057;RQ1-M15;RQ1-M09;Management & Führung;Qualifikation, Entwicklung & Profession;0;0
+R0144;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0460;RQ1-M10;RQ1-M04;Qualifikation, Entwicklung & Profession;Berufsverbleib & Arbeitsbedingungen;0;0
+R0317;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0417;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0660;RQ1-M11;RQ1-M11;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0091;RQ1-M11;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0511;RQ1-M11;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0591;RQ1-M11;RQ1-M17;Qualifikation, Entwicklung & Profession;Management & Führung;0;0
+R0575;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0239;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0468;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0231;RQ1-M20;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0290;RQ1-M22;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0375;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0518;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0630;RQ1-M21;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0608;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0168;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0393;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0488;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0336;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0146;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0005;RQ1-M01;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0105;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0150;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0085;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0683;RQ1-M01;RQ1-M25;Berufsverbleib & Arbeitsbedingungen;Politik & System;0;0
+R0080;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0463;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0261;RQ1-M20;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0133;RQ1-M20;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0360;RQ1-M21;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0587;RQ1-M21;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0153;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0586;RQ1-M20;RQ1-M24;Digitalisierung & Robotik;Politik & System;0;0
+R0081;RQ1-M20;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0373;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0391;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0145;RQ1-M21;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0571;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0497;RQ1-M22;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0563;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0578;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0464;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0066;RQ1-M20;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0195;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0193;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0394;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0610;RQ1-M24;RQ1-M01;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0132;RQ1-M01;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0607;RQ1-M01;RQ1-M18;Berufsverbleib & Arbeitsbedingungen;Rückgewinnung & Rekrutierung;0;0
+R0173;RQ1-M01;RQ1-M09;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0009;RQ1-M01;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0033;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0632;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0083;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0404;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0334;RQ1-M03;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0636;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0213;RQ1-M06;RQ1-M07;Image & Anerkennung;Image & Anerkennung;0;1
+R0487;RQ1-M06;RQ1-M07;Image & Anerkennung;Image & Anerkennung;0;1
+R0298;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0550;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0406;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0376;RQ1-M06;RQ1-M01;Image & Anerkennung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0277;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0125;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0667;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0255;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0230;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0419;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0433;RQ1-M06;RQ1-M04;Image & Anerkennung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0405;RQ1-M06;RQ1-M24;Image & Anerkennung;Politik & System;0;0
+R0598;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0371;RQ1-M06;RQ1-M07;Image & Anerkennung;Image & Anerkennung;0;1
+R0426;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0566;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0283;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0335;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0640;RQ1-M13;RQ1-M06;Qualifikation, Entwicklung & Profession;Image & Anerkennung;0;0
+R0354;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0530;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0357;RQ1-M24;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0202;RQ1-M24;RQ1-M19;Politik & System;Rückgewinnung & Rekrutierung;0;0
+R0006;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0276;RQ1-M24;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0479;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0051;RQ1-M24;RQ1-M07;Politik & System;Image & Anerkennung;0;0
+R0229;RQ1-M24;RQ1-M07;Politik & System;Image & Anerkennung;0;0
+R0347;RQ1-M24;RQ1-M02;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0250;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0266;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0016;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0553;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0111;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0243;RQ1-M24;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0454;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0593;RQ1-M24;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0003;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0172;RQ1-M24;RQ1-M07;Politik & System;Image & Anerkennung;0;0
+R0385;RQ1-M24;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0041;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0671;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0682;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0538;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0068;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0128;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0257;RQ1-M24;RQ1-M20;Politik & System;Digitalisierung & Robotik;0;0
+R0271;RQ1-M24;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0456;RQ1-M24;RQ1-M01;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0031;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0092;RQ1-M24;RQ1-M25;Politik & System;Politik & System;0;1
+R0222;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0471;RQ1-M24;RQ1-M02;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0622;RQ1-M24;RQ1-M06;Politik & System;Image & Anerkennung;0;0
+R0180;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0026;RQ1-M24;RQ1-M02;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0233;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0392;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0054;RQ1-M24;RQ1-M08;Politik & System;Image & Anerkennung;0;0
+R0008;RQ1-M24;RQ1-M08;Politik & System;Image & Anerkennung;0;0
+R0447;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0343;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0561;RQ1-M24;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0432;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0605;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0348;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0107;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0019;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0070;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0596;RQ1-M24;RQ1-M01;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0574;RQ1-M24;RQ1-M08;Politik & System;Image & Anerkennung;0;0
+R0576;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0685;RQ1-M24;RQ1-M08;Politik & System;Image & Anerkennung;0;0
+R0102;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0478;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0267;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0620;RQ1-M10;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0234;RQ1-M17;RQ1-M02;Management & Führung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0148;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0214;RQ1-M10;RQ1-M15;Qualifikation, Entwicklung & Profession;Management & Führung;0;0
+R0661;RQ1-M10;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0337;RQ1-M16;RQ1-M10;Management & Führung;Qualifikation, Entwicklung & Profession;0;0
+R0245;RQ1-M16;RQ1-M16;Management & Führung;Management & Führung;1;1
+R0499;RQ1-M16;RQ1-M16;Management & Führung;Management & Führung;1;1
+R0311;RQ1-M16;RQ1-M16;Management & Führung;Management & Führung;1;1
+R0122;RQ1-M16;RQ1-M26;Management & Führung;Internationalisierung;0;0
+R0190;RQ1-M07;RQ1-M07;Image & Anerkennung;Image & Anerkennung;1;1
+R0194;RQ1-M07;RQ1-M24;Image & Anerkennung;Politik & System;0;0
+R0140;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0520;RQ1-M15;RQ1-M03;Management & Führung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0562;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0130;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0273;RQ1-M03;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0221;RQ1-M03;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0330;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0543;RQ1-M16;RQ1-M15;Management & Führung;Management & Führung;0;1
+R0556;RQ1-M16;RQ1-M17;Management & Führung;Management & Führung;0;1
+R0323;RQ1-M16;RQ1-M16;Management & Führung;Management & Führung;1;1
+R0577;RQ1-M16;RQ1-M16;Management & Führung;Management & Führung;1;1
+R0232;RQ1-M16;RQ1-M16;Management & Führung;Management & Führung;1;1
+R0112;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0444;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0465;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0642;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0382;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0603;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0203;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0438;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0050;RQ1-M12;RQ1-M10;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0109;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0345;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0526;RQ1-M12;RQ1-M20;Qualifikation, Entwicklung & Profession;Digitalisierung & Robotik;0;0
+R0533;RQ1-M10;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0514;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0625;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0155;RQ1-M27;RQ1-M27;Politik & System;Politik & System;1;1
+R0281;RQ1-M27;RQ1-M27;Politik & System;Politik & System;1;1
+R0328;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0466;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0672;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0666;RQ1-M24;RQ1-M25;Politik & System;Politik & System;0;1
+R0503;RQ1-M24;RQ1-M09;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0100;RQ1-M22;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0557;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0039;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0011;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0247;RQ1-M22;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0613;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0494;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0422;RQ1-M20;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0042;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0681;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0646;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0097;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0114;RQ1-M21;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0314;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0581;RQ1-M20;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0442;RQ1-M20;RQ1-M26;Digitalisierung & Robotik;Internationalisierung;0;0
+R0658;RQ1-M20;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0089;RQ1-M21;RQ1-M26;Digitalisierung & Robotik;Internationalisierung;0;0
+R0634;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0211;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0162;RQ1-M21;RQ1-M14;Digitalisierung & Robotik;Qualifikation, Entwicklung & Profession;0;0
+R0138;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0023;RQ1-M20;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0542;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0654;RQ1-M20;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0263;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0631;RQ1-M20;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0024;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0670;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0443;RQ1-M20;RQ1-M14;Digitalisierung & Robotik;Qualifikation, Entwicklung & Profession;0;0
+R0189;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0583;RQ1-M20;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0175;RQ1-M20;RQ1-M14;Digitalisierung & Robotik;Qualifikation, Entwicklung & Profession;0;0
+R0341;RQ1-M14;RQ1-M14;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0071;RQ1-M14;RQ1-M15;Qualifikation, Entwicklung & Profession;Management & Führung;0;0
+R0002;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0274;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0099;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0086;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0171;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0570;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0435;RQ1-M21;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0259;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0473;RQ1-M22;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0044;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0072;RQ1-M22;RQ1-M24;Digitalisierung & Robotik;Politik & System;0;0
+R0095;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0246;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0137;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0675;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0677;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0500;RQ1-M18;RQ1-M02;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0476;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0316;RQ1-M18;RQ1-M26;Rückgewinnung & Rekrutierung;Internationalisierung;0;0
+R0585;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0268;RQ1-M18;RQ1-M20;Rückgewinnung & Rekrutierung;Digitalisierung & Robotik;0;0
+R0079;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0659;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0312;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0303;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0219;RQ1-M15;RQ1-M03;Management & Führung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0490;RQ1-M16;RQ1-M14;Management & Führung;Qualifikation, Entwicklung & Profession;0;0
+R0184;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0363;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0304;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0090;RQ1-M25;RQ1-M27;Politik & System;Politik & System;0;1
+R0333;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0380;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0541;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0035;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0379;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0310;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0117;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0139;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0472;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0059;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0684;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0029;RQ1-M25;RQ1-M21;Politik & System;Digitalisierung & Robotik;0;0
+R0531;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0536;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0573;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0286;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0285;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0292;RQ1-M04;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0650;RQ1-M04;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0517;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0614;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0597;RQ1-M01;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0434;RQ1-M09;RQ1-M09;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0413;RQ1-M09;RQ1-M24;Qualifikation, Entwicklung & Profession;Politik & System;0;0
+R0595;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0617;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0197;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0669;RQ1-M24;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0073;RQ1-M24;RQ1-M25;Politik & System;Politik & System;0;1
+R0093;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0087;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0509;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0549;RQ1-M24;RQ1-M09;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0174;RQ1-M24;RQ1-M19;Politik & System;Rückgewinnung & Rekrutierung;0;0
+R0278;RQ1-M24;RQ1-M08;Politik & System;Image & Anerkennung;0;0
+R0052;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0401;RQ1-M18;RQ1-M01;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0462;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0606;RQ1-M18;RQ1-M01;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0496;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0178;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0013;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0430;RQ1-M18;RQ1-M04;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0409;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0338;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0157;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0370;RQ1-M25;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0402;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0047;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0657;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0326;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0449;RQ1-M15;RQ1-M25;Management & Führung;Politik & System;0;0
+R0319;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0621;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0446;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0224;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0094;RQ1-M06;RQ1-M07;Image & Anerkennung;Image & Anerkennung;0;1
+R0649;RQ1-M06;RQ1-M07;Image & Anerkennung;Image & Anerkennung;0;1
+R0555;RQ1-M25;RQ1-M03;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0481;RQ1-M04;RQ1-M18;Berufsverbleib & Arbeitsbedingungen;Rückgewinnung & Rekrutierung;0;0
+R0653;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0377;RQ1-M04;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0400;RQ1-M19;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;0;1
+R0294;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0483;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0201;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0299;RQ1-M20;RQ1-M18;Digitalisierung & Robotik;Rückgewinnung & Rekrutierung;0;0
+R0207;RQ1-M21;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0135;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0387;RQ1-M21;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0320;RQ1-M21;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0199;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0235;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0183;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0627;RQ1-M20;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0198;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0645;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0452;RQ1-M22;RQ1-M26;Digitalisierung & Robotik;Internationalisierung;0;0
+R0365;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0383;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0539;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0491;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0528;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0369;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0635;RQ1-M22;RQ1-M22;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0329;RQ1-M22;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0021;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0163;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0007;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0618;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0119;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0558;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0448;RQ1-M25;RQ1-M02;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0407;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0551;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0001;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0440;RQ1-M25;RQ1-M20;Politik & System;Digitalisierung & Robotik;0;0
+R0289;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0280;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0075;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0101;RQ1-M25;RQ1-M04;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0192;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0384;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0241;RQ1-M27;RQ1-M27;Politik & System;Politik & System;1;1
+R0590;RQ1-M27;RQ1-M27;Politik & System;Politik & System;1;1
+R0469;RQ1-M27;RQ1-M27;Politik & System;Politik & System;1;1
+R0147;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0609;RQ1-M02;RQ1-M18;Berufsverbleib & Arbeitsbedingungen;Rückgewinnung & Rekrutierung;0;0
+R0415;RQ1-M03;RQ1-M18;Berufsverbleib & Arbeitsbedingungen;Rückgewinnung & Rekrutierung;0;0
+R0248;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0678;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0151;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0626;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0269;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0191;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0127;RQ1-M06;RQ1-M06;Image & Anerkennung;Image & Anerkennung;1;1
+R0680;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0049;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0110;RQ1-M03;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0374;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0123;RQ1-M05;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0647;RQ1-M05;RQ1-M13;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0217;RQ1-M05;RQ1-M01;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;0;1
+R0445;RQ1-M18;RQ1-M01;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0398;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0524;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0149;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0043;RQ1-M18;RQ1-M01;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0662;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0403;RQ1-M18;RQ1-M17;Rückgewinnung & Rekrutierung;Management & Führung;0;0
+R0559;RQ1-M18;RQ1-M03;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0069;RQ1-M17;RQ1-M17;Management & Führung;Management & Führung;1;1
+R0554;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0053;RQ1-M18;RQ1-M12;Rückgewinnung & Rekrutierung;Qualifikation, Entwicklung & Profession;0;0
+R0200;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0046;RQ1-M18;RQ1-M18;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0237;RQ1-M27;RQ1-M27;Politik & System;Politik & System;1;1
+R0134;RQ1-M27;RQ1-M27;Politik & System;Politik & System;1;1
+R0061;RQ1-M15;RQ1-M15;Management & Führung;Management & Führung;1;1
+R0572;RQ1-M15;RQ1-M17;Management & Führung;Management & Führung;0;1
+R0498;RQ1-M19;RQ1-M05;Rückgewinnung & Rekrutierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0508;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0594;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0601;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0154;RQ1-M15;RQ1-M02;Management & Führung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0238;RQ1-M15;RQ1-M03;Management & Führung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0611;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0152;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0048;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0272;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0156;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0236;RQ1-M05;RQ1-M05;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0516;RQ1-M05;RQ1-M15;Berufsverbleib & Arbeitsbedingungen;Management & Führung;0;0
+R0188;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0414;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0527;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0181;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0451;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0332;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0077;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0215;RQ1-M04;RQ1-M04;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0027;RQ1-M03;RQ1-M25;Berufsverbleib & Arbeitsbedingungen;Politik & System;0;0
+R0244;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0254;RQ1-M24;RQ1-M25;Politik & System;Politik & System;0;1
+R0359;RQ1-M03;RQ1-M03;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0604;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0525;RQ1-M19;RQ1-M19;Rückgewinnung & Rekrutierung;Rückgewinnung & Rekrutierung;1;1
+R0477;RQ1-M02;RQ1-M02;Berufsverbleib & Arbeitsbedingungen;Berufsverbleib & Arbeitsbedingungen;1;1
+R0098;RQ1-M24;RQ1-M17;Politik & System;Management & Führung;0;0
+R0220;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0034;RQ1-M24;RQ1-M25;Politik & System;Politik & System;0;1
+R0287;RQ1-M24;RQ1-M25;Politik & System;Politik & System;0;1
+R0547;RQ1-M24;RQ1-M25;Politik & System;Politik & System;0;1
+R0616;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0022;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0295;RQ1-M05;RQ1-M13;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0318;RQ1-M25;RQ1-M12;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0270;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0355;RQ1-M12;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;0;1
+R0475;RQ1-M13;RQ1-M13;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0342;RQ1-M05;RQ1-M13;Berufsverbleib & Arbeitsbedingungen;Qualifikation, Entwicklung & Profession;0;0
+R0170;RQ1-M26;RQ1-M13;Internationalisierung;Qualifikation, Entwicklung & Profession;0;0
+R0284;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0545;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0396;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0350;RQ1-M21;RQ1-M20;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0427;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0014;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0056;RQ1-M20;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0537;RQ1-M21;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0519;RQ1-M21;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0416;RQ1-M21;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0457;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0506;RQ1-M25;RQ1-M05;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0515;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0116;RQ1-M25;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0121;RQ1-M25;RQ1-M13;Politik & System;Qualifikation, Entwicklung & Profession;0;0
+R0639;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0078;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0164;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0624;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0012;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0362;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0252;RQ1-M21;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;0;1
+R0441;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0306;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0436;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0522;RQ1-M23;RQ1-M25;Digitalisierung & Robotik;Politik & System;0;0
+R0569;RQ1-M21;RQ1-M21;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0307;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0552;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0063;RQ1-M24;RQ1-M08;Politik & System;Image & Anerkennung;0;0
+R0521;RQ1-M24;RQ1-M24;Politik & System;Politik & System;1;1
+R0663;RQ1-M24;RQ1-M25;Politik & System;Politik & System;0;1
+R0388;RQ1-M24;RQ1-M02;Politik & System;Berufsverbleib & Arbeitsbedingungen;0;0
+R0489;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0458;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0040;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0397;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0166;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0366;RQ1-M25;RQ1-M25;Politik & System;Politik & System;1;1
+R0664;RQ1-M12;RQ1-M12;Qualifikation, Entwicklung & Profession;Qualifikation, Entwicklung & Profession;1;1
+R0186;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0390;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0165;RQ1-M26;RQ1-M01;Internationalisierung;Berufsverbleib & Arbeitsbedingungen;0;0
+R0665;RQ1-M08;RQ1-M08;Image & Anerkennung;Image & Anerkennung;1;1
+R0253;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0327;RQ1-M08;RQ1-M09;Image & Anerkennung;Qualifikation, Entwicklung & Profession;0;0
+R0534;RQ1-M26;RQ1-M26;Internationalisierung;Internationalisierung;1;1
+R0296;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0532;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0589;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0651;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1
+R0082;RQ1-M23;RQ1-M23;Digitalisierung & Robotik;Digitalisierung & Robotik;1;1

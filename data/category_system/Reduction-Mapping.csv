@@ -1,0 +1,443 @@
+﻿Dimension;Main Category ID;Main Category;Subcategory;Fine Category ID;Fine Category Title;Passage Count;N Documents
+Berufsverbleib & Arbeitsbedingungen;RQ1-M01;Berufsverbleib & Berufszufriedenheit;;RQ1-1;Verbleib im Beruf;5;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M01;Berufsverbleib & Berufszufriedenheit;;RQ1-3;Zufrieden mit dem Beruf;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M01;Berufsverbleib & Berufszufriedenheit;;RQ1-4;Selbstverwirklichung im Beruf;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M01;Berufsverbleib & Berufszufriedenheit;;RQ1-141;Pflege ist eine wertvolle Zeit;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M01;Berufsverbleib & Berufszufriedenheit;;RQ1-151;Pflegende leben den Wert der Pflege;3;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M01;Berufsverbleib & Berufszufriedenheit;;RQ1-152;Abholen der Menschen beim Wert der Pflege;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M01;Berufsverbleib & Berufszufriedenheit;;RQ1-293;Pflege ist ein wichtiger Berunf;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Ausstiegsgrund Weiterentwicklung;RQ1-2;Ausstieg aus dem Beruf wegen beruflicher Weiterentwicklung;5;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Ausstiegsgrund Weiterentwicklung;RQ1-154;Austieg aus dem Beruf nicht wegen der eigenlichen Pflegerischen Tätigkeit;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Ausstiegsgrund Weiterentwicklung;RQ1-309;Private Gründe für Ausstieg aus dem Beruf;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Ausstiegsgrund Belastung;RQ1-28;Rahmenbedingung schwere Arbeit;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Ausstiegsgrund Belastung;RQ1-153;Ausstieg aus dem Beruf wegen Rahmenbedingungen;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Ausstiegsgrund Belastung;RQ1-310;Körperliche oder psychixsche belastung als Grund für den Ausstieg aus dem Beruf;3;2
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Ausstiegsgrund Belastung;RQ1-363;Hohe Belastung als Problem;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Relevanz des Ausstiegsgrundes für die Rückgewinnung;RQ1-321;Grund für das gehen kommt aus der Arbeit heraus;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Relevanz des Ausstiegsgrundes für die Rückgewinnung;RQ1-322;Man geht nicht, weil man isch weiterentwickeln will;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Relevanz des Ausstiegsgrundes für die Rückgewinnung;RQ1-349;Zu wenig Personal führt zu unzufriedenheit und zu ausscheidem aus dem Beruf;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Relevanz des Ausstiegsgrundes für die Rückgewinnung;RQ1-358;Gründe für den Ausstieg aus dem Beruf müssen abgebaut werden;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Relevanz des Ausstiegsgrundes für die Rückgewinnung;RQ1-394;Vermehrte Krankheitstage der Pflegekräfte;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Relevanz des Ausstiegsgrundes für die Rückgewinnung;RQ1-409;Zu wenig Personal wehöht die Belastung und den Ausstieg aus dem beruf;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Flexible Arbeitszeitmodelle;RQ1-11;Ausstieg macht Freizeitgestaltung flexibel möglich;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Flexible Arbeitszeitmodelle;RQ1-12;Freizeitgestaltung weniger Flexibel aber planbar;3;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Flexible Arbeitszeitmodelle;RQ1-52;Rahmenbedingung Wochenendarbeit;2;2
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Flexible Arbeitszeitmodelle;RQ1-62;Familienfreundlichkeit;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Flexible Arbeitszeitmodelle;RQ1-315;Anpassungen im Schichtdienst und in teilzeitmöglichkeiten;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Flexible Arbeitszeitmodelle;RQ1-364;Einspringen aus dem Frei sit ein Problem;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Flexible Arbeitszeitmodelle;RQ1-406;Einführung von Springer Modellen;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Werbung mit Arbeitszeitmodellen;RQ1-25;Teilzeit statt Vollzeit seitens Arbeitnehmer;4;2
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Werbung mit Arbeitszeitmodellen;RQ1-26;Teilzeit statt Vollzeit seitens Arbietgeber;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Werbung mit Arbeitszeitmodellen;RQ1-316;Höheren Aufwand der Flexibilität in Kauf nehmen für den Erhalt im Beruf;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Werbung mit Arbeitszeitmodellen;RQ1-359;Familiendfreundlichkeit des Berufes steigern;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Werbung mit Arbeitszeitmodellen;RQ1-392;Dienstplan, Schichtdienst, Frei;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-50;Neues Personal stellt Ansprüche an Rahmenbedingungen;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-54;Unverrückbare Richtlinien der Rahmenbedingungen notwendig;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-55;Richtlinie Schichtdienst;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-65;Starres flexibles System notwendig;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-156;Dillema zwischen Familie undTeam beim Einspringen;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-214;Einspringen wird erwatet;3;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-215;Emotionaler Ärger in der Freizeit durch Erwartung zum Einspringen;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-362;Ein Problem ist der Schichtdienst;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-403;Änderung der Rahmenbedingungen ist notwendig;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;RQ1-454;Flexible, familienfreundliche, selbstbestimmte Arbeitszeiten ohne Einspringbereitsschaft;7;5
+Politik & System;RQ1-M27;Datengrundlage & Registrierung;;RQ1-228;Pflichtregistrierung als Möglichkeit;1;1
+Politik & System;RQ1-M27;Datengrundlage & Registrierung;;RQ1-229;Pflichtregistrierung als Möglichketi der Kontaktausfnahme zur Rückgewinnung;1;1
+Politik & System;RQ1-M27;Datengrundlage & Registrierung;;RQ1-355;Fehlende Daten über Pfelgekräfte;1;1
+Politik & System;RQ1-M27;Datengrundlage & Registrierung;;RQ1-356;Daten über Verbleib für Rückgewinnung notwendig;1;1
+Politik & System;RQ1-M27;Datengrundlage & Registrierung;;RQ1-357;Daten über Pflegekräfte über Pflichtregistrierung bei der Selbstverwaltung notwendig;1;1
+Politik & System;RQ1-M27;Datengrundlage & Registrierung;;RQ1-382;Wichtig sind Daten über ausgeschieden Pflegekräfte;1;1
+Politik & System;RQ1-M27;Datengrundlage & Registrierung;;RQ1-383;Registrierung für verlässliche Daten notwendig;1;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-338;Internationale Vergleichbarkeit der Finanzierung ist aufgrund struktureller Unterschiede nicht möglich.;1;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-419;Internationalen Vergleich anstreben - international lernen;1;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-439;Pfelgekräfte sind weltweit ein umkämpfter markt;1;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-440;Weltweiter Kampf um Pflegekräfte;1;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-441;Deutschland im weltweitern Kampf um Pfelgekräft im Nachteil durch die Sprache;2;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-442;Deutschland angewiesen auf ausländiche pfelgekräfte;1;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-444;Pfelge als Ausbildung mit Internationaler Perspektive Care and Travel;2;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-445;Weltweiter Einsatz als Pfelgekraft möglich- besser als jeder andere Beruf;1;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-446;Internationale Vernetzung notwendig;1;1
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;;RQ1-448;Übertragung internationaler Erfahrungen auf die Heimat;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-93;Pflegebereiche Ambulant und Stationär;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-275;Pflegeschlüssel n Deutschlang ganz gut;2;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-276;EIne Betrachtung des Systems bezüglich Patientenkontakt ist wichtig;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-287;Denkweise und Strukturen im System ändern zum Sparen;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-291;Verschiedene Sichtweisen auf das System legen und Sparen positiv belegen;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-292;Sparen als Chance für neue Wege und Möglichkeiten;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-317;Veränderungen und Rollenzuteilung im Sysem notwendig;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-325;Zeitarbeit al sKonkurrenz durch gute Arbeitsbedingugnen;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-347;Patientenzentrierte Arbeitsabläufe notwendig;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-348;Genügend qualifiziertes Personal für die patientenorientierte Versorgung notwendig;2;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-350;Unzufriedenheit und Zeitaufwand durch Prüfungen und Regularien;2;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-351;Unterschwelliges Mistrauen gegenüber qualitativem Arbeiten;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-352;Sinnvollle neue Regelungen für Qualitätsüberprüfungen notwendig.;4;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-415;Personalmangel in der Midizin ist hausgemacht;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-425;Stärkung pflegender Angehöriger um das System zu entlasten;7;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-426;Change im System ist notwendig;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-427;Neue Konzepte, Akademisierung, Strukturänderung notwendig;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-428;Strukturänderungen im System notwendig, angepasst ain aktuelle Begebenheiten und Familienbilder;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;RQ1-429;Pfelgebedürftige ins Ausland exportieren ethisch nict vertretbar;2;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-277;Systemänderung mit Blick auf die Finanzierung notwendig;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-278;Tarifbindung erfordert politisch finanzierte Zuschüsse für die Langzeitpflege;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-279;Verschiebung der Kosten im politischen System;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-280;Gegenfinanzierung der Gehälter durch sparen im System;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-281;Sparen an der richtigen Stelle;3;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-282;Qualität abbauen ist sparen an der falschen Stelle;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-283;Investitionen als langfristige Sparmaßnahme;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-284;Investition in die Digitalisierung für Sparen;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-285;Unsinnige Maßnahmen streiche;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-286;Outcomeorientierte Finanzierung notwendig;1;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-345;Allgemein muss die Finanzierung der Kliniken hinterfragt werden;3;1
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;RQ1-346;Notwendigkeit der Umstrukturierung der Finanazierung;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;RQ1-80;Politisch ist eine Pflegereform notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;RQ1-81;Politisch müssen alle akteure an einen Tisch;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;RQ1-82;Politischer Diskurs so lange wie nötig für ein Ergebnis;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;RQ1-99;Verbände sollen sich politisch für die Rollenklarheit der Pflege einsetzen;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;RQ1-150;Thema politisch wichtig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;RQ1-169;Heterogenität der Pflege als pflgepolitischer Nachteil;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;RQ1-170;Gesellschaftlicher und politischer Rückenwind berufspolitisch ungenutzt;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;RQ1-405;Politische Unterstützung des Change notwendig duch Geld oder Anreize;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;RQ1-433;Randdiskussionen behinden die Weiterentwicklung der Berufsgruppe;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-167;Politisch ist die Pflege nicht ausreichend vertreten;3;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-168;Pflegepolitische uneinigkeit innerhalb der Profession Pflege;3;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-173;Unklarheit der berufspolitischen Akteure und ihre Zuständigkeiten bezogen auf die Pflege;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-174;Unklarheit der Verteilung der berufspolitischen Akteure und ihre Zuständigkeiten bezogen auf die Pflege;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-175;Unklarheit der Fragmentierung der pflegepolitischen Akteure;2;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-176;Politisch wird eine gemeinsam Stimme/Richtung der Berufsgruppe erwartet;3;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-182;Fehlende politische Präsenz der Profession Pflege;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-183;Berufsgruppe Pflege steht sich selbst im Weg;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-261;Berufspolitische Aktionen für sinnvolle gesetzliche Regelungen notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-300;Die Sichtweise der internationalen Pflegefachkräfte muss berufspolitisch mehr verterten werden.;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-302;Personen notwndig, die fachlich kompetent und  charmant die Berufsgruppe auf politischer Ebene vertreten.;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-303;Notwendigkeit der richtigen Person auf der richtigen Stelle für berufspolitischen Einfluss;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-304;Persönliche Förderung und Ansprache geeigneter Personen notwendig, sowei derer Begleitung;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-305;Geeignete Personen in der Berufspolitik fördern und selber auch erscheinen ist wichtig.;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-366;Die Berufsgruppe muss für sich selber sprechen und politisch einbezogen werden;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-404;Politische Verpflichtung zum Handeln bei den Rahmenbedingungen;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-434;Nicht hilfreiche Diskussionen über die Form der Selbstverwaltung;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;RQ1-435;Viel Zeit für die Verbeserung der Rahmenbedingungen verloren durch unnötige Diskussionen über die selbstverwaltung;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-177;Vernetzung innerhalb der Berufsgruppe notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-178;Negativspirale als selbsterfüllende Prophezeihung;5;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-179;Selbsterfüllende Prophezeihung als Grund für Untätigkeit;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-198;Die eigene politische Rolle erkennen, statt zu erwarten, dass andere für sie einstehen;2;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-199;Ziel bei der politischen Arbeit erkennen;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-200;Politische Arbeit seitens der Pflege wertschätzen und unterstützen;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-301;Strategische Ausrichtung der Pflege stärken;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-436;Die Berufsgruppe muss sich vertragen und in eine Richtung gehen;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-437;Zielorientiertes Handeln ist notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;RQ1-438;Problem erkennen und benennen;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-180;Politisches Interesse an der Einbindung der Profession Pflege;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-181;Politische Vertreter setzen sich für die Belange der Pflege anstatt den eingenen Vertretern ein;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-184;Für eine gute Versorgung der Menschen ist die politische Beteiligung der Pflege wichtig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-185;Pflegefachliche Kompetenz bei Entscheidungen über die pflegerische Versorgung erwünscht;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-186;Finanzielle Unterstützung der pflegepolitischen Akteure notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-187;Politische Mandatsträger offen für pflegepolitische Veränderungen;2;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-188;Plfege als politisches Thema, dass alle betrifft;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-189;Pflegefachkräftemangel wird politische wahrgenommen;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-190;Pflegepolitisch konkrete Verbesserungsvorschläge notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-191;Pflegepolitisch konkrete Praxisbeispieöe zum Verständnis notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-192;Marketing als Strategie in der Verbandsarbeit notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-193;Marketing im Sinne der Konkretisierung notwendig;3;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-194;Konkrete Vorschläge und Lösungen an die politischen Vertreter notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-195;Fachliche Aspekte für Politiker verständlich zusammenfassen;4;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-196;Erwartungen zurückstellen, dass andere alles über die Profession Pflege wissen müssen;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-231;Staatliche Stärkugn der Pflege seit Corona;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-232;Staatlichen Stärkungs-Flow wurde in der Pflege nicht angenommen;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-410;Politisches Handeln notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-411;Politisches Agieren oft nicht sichtbar, da das Problem schneller ist;3;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;RQ1-412;Ethische Verpflichtung der Politik zur Lösungsfindung;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Berufspolitisches Verständnis;RQ1-171;Zynismus statt Aktion innerhalb der Berufgruppe;2;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Berufspolitisches Verständnis;RQ1-172;Unverständnis für Zynismus statt Aktion;2;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Berufspolitisches Verständnis;RQ1-197;Politisches Verständnis entwickeln;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Berufspolitisches Verständnis;RQ1-296;Politisch engagierte Pflegefachkräfte oder als politische Akteure für die Berufsgruppe sind der Schlüssel;2;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Berufspolitisches Verständnis;RQ1-297;Berufspolitische Bildung im Rahmen der Ausbildung von Anfang an notwendig;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Berufspolitisches Verständnis;RQ1-298;Pflegefachpersonen der Unikliniken müssen ihren berufspolitischen Aufgaben gerecht werden;1;1
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Berufspolitisches Verständnis;RQ1-299;In der Langzeitpflege berufspolitischer Einsatz notwendig;1;1
+Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;;RQ1-145;Digitalisierung und Robotik bedarfsgerecht gestalten;1;1
+Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;;RQ1-146;Implementierungsprobleme von Robotern auf Setting Plfege bezogen;1;1
+Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;;RQ1-430;Digitalisierung zum Erhalt der Selbständigkeit;1;1
+Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;;RQ1-431;Kombination digitaler Systeme für selbstbestimmtes Leben;3;1
+Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;;RQ1-449;Roboter als soziale Systeme;1;1
+Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;;RQ1-450;Einsatz aktueller bedarfsgerechter Roboter zur Entlastung;2;1
+Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;;RQ1-451;Notrufsysteme entlasten Patient und Pflege;1;1
+Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;;RQ1-452;Sicherheit durch technische Systeme;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-135;Digitalisiserung als Kostenfaktor;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-136;Finanzielle Priorität für oder gegen Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-137;Refinanzierung der Digitalisierung nicht geregelt;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-147;Rechtliche und Finanziell Hürden der Digitalisieurng;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-149;Finanzierung digitaler Infrastruktur;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-233;Staatlicher Untertützung -Flow konnte in Digitalisierung investiert werden;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-336;Digitalisierung ist ausgelegt auf die Geldgeber;5;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-341;Komponenten der Digitalisierung in den Leistungskatalog;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-342;Regelung der Refinanzierung und Kostendeckung des Personalaufwandes und der Wartung der Digitalisierung notwendig;2;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;RQ1-344;Finanzierung der Systeme muss gescihert sein;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Infrastruktur der Digitalisierung;RQ1-148;Förderung digitaler Infrastruktur;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Infrastruktur der Digitalisierung;RQ1-255;Keine Sektorübergreifende Digitalisierung als Problem;2;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Infrastruktur der Digitalisierung;RQ1-260;Pflegetätigkeiten in der EPA nicht erfasst;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Infrastruktur der Digitalisierung;RQ1-262;Notwendigkeit sektorenübergreifender juristischer Regelungen;2;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Infrastruktur der Digitalisierung;RQ1-335;Interoperabilität der digitalen Systeme notwendig;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Infrastruktur der Digitalisierung;RQ1-340;Keine Verlässlichkeit auf die Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Infrastruktur der Digitalisierung;RQ1-343;Verlässlichkeit der Systeme notwendig;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Rechtliche Regulation der Digitalisierung;RQ1-70;Digitalisierung rechtliche Aspekte wichtig;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Rechtliche Regulation der Digitalisierung;RQ1-132;Digitalisiseurng Regularien und Schnittstellenproblematik;6;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Rechtliche Regulation der Digitalisierung;RQ1-237;Digitalisierung bietet besseren Datenschutz als Analog im ambulanten Bereich;1;1
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Rechtliche Regulation der Digitalisierung;RQ1-259;Nicht nachvollziehbare gesetzliche Vorgaben in der Digitalisierung bezüglich SGB V und XI;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-134;Digitalisiserung Prozessoptimierung;3;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-138;Einsatz von Digitalisiserugn zur Unterstützung der Pflege;5;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-142;Digitale Dokumentation;2;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-246;Verbesserte Kommunikation duch Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-256;Unnötige Doppeldokumentation als Problem;3;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-257;Genaue Arbeitserfassung durch Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-258;Entbürokratisierung ist abhängig vom Stand der DIgitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-332;Entbürokratisierung und Dokumentation;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-333;Digitalisierung soll unterstützen vor allem bei der Dokumentation;2;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-334;Zeitersparnis duch nutzendenfreundliche Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-339;Digitalisierung als Vermeidung von Doppeldokumentation;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-420;Digitalisierung als Entlastung;3;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-422;Entlastung durch Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-424;Entlastung des Pflegesystems durch Digitalisirung;3;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;RQ1-432;Aufwand Ressourcen Verhältnis durch Digitalsierung optimeren;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Nutzen durch Digitalisierung;RQ1-139;Arbeitslat durch nicht vorhandenen digitalen Systemen;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Nutzen durch Digitalisierung;RQ1-242;Unerwartete und ungeplante Vorteile durch Digitalisierung;3;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Nutzen durch Digitalisierung;RQ1-243;Steigerung der Patientensicherheit durch Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Nutzen durch Digitalisierung;RQ1-244;Arbeitserleichterung durch Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Nutzen durch Digitalisierung;RQ1-245;Mitarbeitendenzufriedenheit udn Arbeitserleichterung durch Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Nutzen durch Digitalisierung;RQ1-421;Attraktivität des Pflegeberufes für Nachwuchs durch Digitalisierung;3;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Implementierungsstrategie der Digitalisierung;RQ1-130;Digitalisiserung Implementierungsstrategie notwendig;7;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Implementierungsstrategie der Digitalisierung;RQ1-131;Digitalisierung Top Down;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Implementierungsstrategie der Digitalisierung;RQ1-234;Doku umgestellt auch Digitalisierungssoftware für die Pflege;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Implementierungsstrategie der Digitalisierung;RQ1-238;Erfolg der Umstellung von Analog zu Digital durch Ausschluss von Doppelstrukturen;2;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Implementierungsstrategie der Digitalisierung;RQ1-239;Digitalisierung als vollendete Tatsache für alle Beteiligte;2;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Implementierungsstrategie der Digitalisierung;RQ1-247;Digitalisierung individuell an das Unternehmen anpassen;4;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Implementierungsstrategie der Digitalisierung;RQ1-250;Digitalisierung ausprobieren und Fehlerkultur erlauben;2;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Implementierungsstrategie der Digitalisierung;RQ1-331;Digitalisierung ist kein Grund für Rpückkehr;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Hürden der Implementierung der Digitalisierung;RQ1-133;Analoge Prozesse nicht immer digitalisiserbar;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Hürden der Implementierung der Digitalisierung;RQ1-140;Gute Möglichekten durc Digitalisiserung kommt nicht in die Fläche;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Hürden der Implementierung der Digitalisierung;RQ1-235;Anfänglicher altersübergreifender Widersstand gegen die Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Hürden der Implementierung der Digitalisierung;RQ1-236;Bedenken des Personals gegen digitale Dokumentation;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Hürden der Implementierung der Digitalisierung;RQ1-240;Bedienungsprobleme und Unkennstnis als Hindernis bei Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Hürden der Implementierung der Digitalisierung;RQ1-248;KIS Systemim Krankenhaus mit schwierigem Start;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Hürden der Implementierung der Digitalisierung;RQ1-337;Interdisziplinäre Unterschiede bei der Schwerpunktsetzung der Digitalisierung;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Akzeptanz der Digitalisierung;RQ1-143;Digitalisiserung Aufsicht bei den Menschen;0;0
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Akzeptanz der Digitalisierung;RQ1-144;Digitalei System für die unterschiedlichen Pflegesettings vorhanden;3;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Akzeptanz der Digitalisierung;RQ1-241;Akzeptanz der Digitalisierung bei Anwenderfreundlichkeit udn Arbietserleichterung;4;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Akzeptanz der Digitalisierung;RQ1-249;Positive Entwicklung der Ambulanten Dienste und Langzeitpflege in der digitalen Dokumentation;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Akzeptanz der Digitalisierung;RQ1-251;Digitalisierung udn Neues Ausprobieren als Motivation für das Team;1;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Akzeptanz der Digitalisierung;RQ1-252;Motivation bei der Digitalisierung für jung und alt;3;1
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Akzeptanz der Digitalisierung;RQ1-423;Digitalisierung bedarfsgerecht;1;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-69;Digitaliserung zur Anwerbung Sozial Media;2;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-71;Digitale Sichtbarkeit bei Rkrutierung;1;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-76;Rekrutierung durch die Mitarbeiter;2;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-77;Rekrutierung durch Mundpropaganda;2;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-110;Bewerber schauen sich auch das Gebäüde an.;1;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-328;Gewinn für das Stammpersonal ist die zusätzliche Person;1;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-386;Gute Arbeitgeber haben keine Personalsorgen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-387;Gute Heime haben auch Personalprobleme wegen dem leeren Markt;1;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-388;Gute Arbeitgeber haben weniger Probleme Personal zu finden;1;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-389;Mundpropaganda für gute Arbeitgeber;1;1
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;;RQ1-408;Personal aus dem Ausland anwerben;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-13;Persönliche Ansprache für Rückkehrer;2;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-18;Rückgewinnungsprogramme nicht direkt bekannt;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-21;Rückgewinnung durch besseres Image;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-22;Rückgewinnung durch Verbesserung der Rahmenbedingungen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-23;Rückgewinnung schwierig trotz Verbesserungen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-49;Negative Auswirkugen der Rückgewinnungsprogramme auf die Arbeitenden;3;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-94;Rückgewinnungskampagnen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-100;Rückgewinnungsprogramme keine bekannt;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-101;Rückgewinnung durch direkte Ansprache;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-102;Bereitschaft zur Rückkehr bei bewusst Ausgeschiedenen wird nicht gesehen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-103;Wenn jemand lange ausgeschieden ist, Rückkehr schwierig;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-104;Rückkehr erschwert durch Alter und Gesundheit;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-105;Wenn jemand noch nicht so lange weg ist, eher Rückkehr möglich;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-106;Karrieraeangebot führt vileleicht zur Rückkehr;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-226;Rückgewinnungsprogramm ja, Bosch Studie;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-227;Rückgewinnungsprogramme entfernt bekannt;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-230;Bereitschaft zur Rückkehr ist sehr hoch;3;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-263;Funktionierende Digitalisierung ist wichtig für die Rückgewinnung;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-265;Langjährig ausgeschiedene Mitarbeiter benötigen fürnktionierende Systeme für den Wiedereinstieg;2;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-266;Langjährig ausgeschiedene Mitarbeiter benötigen Onboarding für den Wiedereinstieg;4;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-267;Rückkehrer haben Erinnerungen an denen sie sich festhalten;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-268;Rückkehrer haben Angst vor unbekannten Systemen;3;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-269;Langjährige Rückkehrer haben bedenken vor Sprachproblemem mit ausländischem Personal;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-270;Rückkehrer sind unsicher aufgrund veränderter Umstände;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-306;Grund der Ausscheidung aus dem Beruf ist von Bedeutung für die Rückgewinnung;2;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-307;Grund für die Unzufriedenheit mit dem Beruf herausfinden notwendig;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-308;Arbeitsbedingungen verbessern für Rückgewinnung;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-311;Menschen, die ausgestiegen sind, nach den Gründen befragen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-312;Bezahlung wichtig bei der Rückgewinnung;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-353;Wichtigkeit der Thematik der Rückgewinnung;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-354;Hochfinanziertes Programm für Rückkehrer mit wenig Rückkehrern;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-360;Anreize für eine Rückkehr setzen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-371;Rückkehrbereitschaft ist vorhanden;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-372;Individuelle Entscheidung zur Rückkehr bei Änderung der Arbeitsbedingungen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-373;Einmal aus dem Beruf aktiv gegangen ist die Rückkehr schwierig;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-374;Rückgewinnung nur möglich bei persönlichen Gründen des Ausstiegs;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-375;Rückkehr, um nicht was anderes lernen zu müssen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-376;Auffinden der Rückkehrbereiten notwendig;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-377;Bereitschaft, sich auf die Wünsche der Rückkehrenden einzulassen, notwendig.;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-378;Analog zu Leiharbeitern die Wünsche der Rückkenrenden erfüllen;1;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-380;Rückgewinnungsprogramm erfolglos durchgeführt;2;1
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;;RQ1-381;Weitere Rückgewinnungsprogramme nicht bekannt;2;1
+Management & Führung;RQ1-M17;Mitarbeiterbindung & -förderung;;RQ1-59;Motivation und Kostenübernahme der Mitgestaltung;1;1
+Management & Führung;RQ1-M17;Mitarbeiterbindung & -förderung;;RQ1-60;Förderung des Personals als Lösung;2;2
+Management & Führung;RQ1-M17;Mitarbeiterbindung & -förderung;;RQ1-61;Problemde der Mitarbeitenden ernst nehmen wie Familie, Rückenschmerzen;1;1
+Management & Führung;RQ1-M17;Mitarbeiterbindung & -förderung;;RQ1-112;Besondere Rolle - etwas was andere nicht machen;1;1
+Management & Führung;RQ1-M17;Mitarbeiterbindung & -förderung;;RQ1-379;Wünsche des bestehenden Personals beachten, damit diese nicht ausscheiden;1;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-116;Kreatives Management;1;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-117;Innovative Managmentansätze;2;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-207;Für oberes Management harte Persönlichkeit notwendig;1;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-208;Oberer Führungsebene nicht optimal besetzt;1;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-209;Beste Ausbildung als Lösung für die Karriere im Management;4;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-210;Ausbildung des Managements interdisziplinär;1;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-211;Ausbildung des Managements interkulturell;1;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-217;Führungs- und Methoden kompetenz notwendig;1;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-218;Führungs- und Methoden kompetenz fehlt im unteren Management;1;1
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;;RQ1-273;Führung braucht Kompetenz;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-53;Negative Auswirkung wenn Leitung jedem alles Recht machen will;3;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-56;Achtung vor bestehmendem Personal;2;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-64;Gute Führung ist notwendig;7;2
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-66;Führungskraft muss individuell denken und im Team denken verbinden;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-67;Ausreichende Einarbietungszeit;2;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-68;Rückkoplung mit demVorgesetzten über die Arbeit;2;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-108;Das Mangement muss statt Rückkehrer suchen Mitarbeiter halten;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-213;Emotionalität ist Fehlplaziert;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-216;Managment darf Druck nicht nach unten weitergeben;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-271;Managment muss die Bedenken der Rückkehrer ernst nehmen;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-272;Führungsthema Muster wechseln und alte Fehler vermeiden;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-318;Das managment muss veränderungen unterstützen;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-319;Wichtige Rolle der Pflegeleitung;2;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-320;Vertarauen in die Vorgesetzten ist notwendig;2;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-329;Wie die Leitung hinter dem Personal steht ist individuell;2;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-330;Pflegeleitung muss hinter dem Personal stehen;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-384;Rolle des Managments ist essentiell für den Verbleib des Personals im Beruf;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-385;Personanenorientierung des Managements ist für den Erhalt im Beruf notwendig;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-390;Leistungsdruck auf die Leitung fällt ab, wenn genug Personal da ist;1;1
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;;RQ1-391;Das Managemnt muss auf die ünsche des Personals eingehne;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M14;Team & Zusammenarbeit;;RQ1-7;Team positiv;3;1
+Qualifikation, Entwicklung & Profession;RQ1-M14;Team & Zusammenarbeit;;RQ1-253;Steigerung des Teamgefühls durch gemeinsames Lernen und Erfahren;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M14;Team & Zusammenarbeit;;RQ1-254;Förderung der Team- und Entwicklungskultur durch die Führungsperson notwendig;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-5;Rahmenbedingung Autonomie positiv;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-6;Rahmenbedingung positive Gestaltungsmöglichkeit;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-41;Eigenverantwortliches Arbeiten erwünscht;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-42;Unselbständiges Arbeiten je nach Tätigkeitsfeld;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-44;Selbstbewusste Pflege erwünscht;3;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-45;Selbstbewusstsein in der Berufsgruppe Pflege nicht vorhanden;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-91;Rollenklarheit und Eigenständigkeit;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-92;Rollenklarheit statt Hilfspersonal vom Arzt;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-95;Wissen ist für diesen Berunf wichtig;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-165;Pflegeberuf als Dienstleistung;3;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-166;Änderung der Rolle der Pflege im Gesundheitssystem;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-413;Mehr Kompetenzzuschreibung für Pflegekräfte notwendig;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;;RQ1-418;Kompetenzübertragung notwendig;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Internationale Anerkennung der Ausbildung;RQ1-219;Ausbildung in Deutschland ist sehr gut;3;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Internationale Anerkennung der Ausbildung;RQ1-222;International ist die Ausbildung nicht anerkannt;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Internationale Anerkennung der Ausbildung;RQ1-223;Alternative Abschlüsse für die Ausbildung andenken;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Internationale Anerkennung der Ausbildung;RQ1-224;Aufwertugnder Ausbildung zu Batchelor wurde nicht angedacht;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Internationale Anerkennung der Ausbildung;RQ1-407;Ausbildung stärken;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-37;Wenig studierte Pflegekräfte bekannt;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-38;Akademisierung posititv;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-46;Vernetzung Pflegewissenschaft und Praxis;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-47;Wissen über Pflegewissenschaft in der Praxis nicht vorhanden;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-48;Stellen für akademische Pflege;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-220;Akademisierung in Deutschland hat einen fraglichen Stellenwert;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-221;Problem ist allgemein die Doppelschiene Ausbildung und Studium;5;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-416;Pflegestudium erscheint unattraktiv;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-417;Pflegestudium unattraktiv aufgrund fehlender Kompetenzzuschreibung;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;RQ1-443;Attraktivität der Ausbildung steigern;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-35;Weiterbildung als Karriere wichtig;3;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-39;Karriereleiter notwendig bei Akademisierung;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-40;Übernahme von Verantwortung als Karreire;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-90;Übernahme von Verantwortung;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-118;Karriere notwendig;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-119;Karriere Weiterbildung;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-120;Karriere Zusatzaufgaben;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-121;Karriere Leitung;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-122;Karriere Verantwortung;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-123;Unterschiedliche Karrierewege, auch unabhängig von Akademisierung;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-124;Karrierewege als Bindung an den Beruf und oder Arbeitgeber;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-201;Karriere in der Pflege ist Männerlastig trotz Frauenberuf;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-202;Suche nach dem Grund für die Männerlastigkeit in der Führung der Pflege;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-203;Fragliche Karrieremöglichkeiten für Frau und Mutter;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-205;Erschwerte Karrieremöglichekeiten für Frauen mit Kindern;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-206;Karriere in der Pflege allgemein schwierig von mittlerer zu höherer Ebene;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;;RQ1-225;Karriere wäre auch eine Stärkung der Berufsausbildung;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M11;Weiterbildung & Personalentwicklung;;RQ1-36;Kein Interessa an Weiterbildung als Karriere bzw am Lernen;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M11;Weiterbildung & Personalentwicklung;;RQ1-58;Verantwortung und Projektübertragung;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M11;Weiterbildung & Personalentwicklung;;RQ1-79;Individuelle Förderung der Mitarbeitenden als Angebot;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M11;Weiterbildung & Personalentwicklung;;RQ1-126;Gezielte Weiterentwicklung der Mitarbeitenden;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M11;Weiterbildung & Personalentwicklung;;RQ1-127;Weiterentwicklung als Wertschätzung ohne finanziellen Vorteil;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M11;Weiterbildung & Personalentwicklung;;RQ1-128;Rollenentwicklung mit Zukunftsperspektive;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M11;Weiterbildung & Personalentwicklung;;RQ1-129;Individuelle Weiterentwicklung der Mitarbeitenden;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-15;Extrinsische Motivation ungern bei Rekrutierung;5;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-16;Intrinsische Motivation bei Rekrutierung;4;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-83;Ungeeignetes Personal aus dem Beruf entfernen;4;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-84;Ungeeignete Schüler entfernen;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-85;Fehlende intrinsische Motivation - Person ist nicht geeignet für den Beruf;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-86;Ungeeignetes Personal mitziehen ist ein Fehler;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-87;Ungeeignetes Personal vertreibt gutes Personal;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-88;Gutes Personal arbeitet für schlechtes Personal mit;2;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-89;Gutes Personal halten, schlechtes gehen lassen;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-294;Die richtigen Leute an der richtigen Position sind der Schlüssel;1;1
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;;RQ1-295;Qualifizierte Pflegefachkräfte mit reflektiertem Weitblick sind der Schlüssel;1;1
+Image & Anerkennung;RQ1-M08;Außendarstellung, Marketing & Öffentlichkeitsarbeit;;RQ1-72;Darstellugn des Berufes an sich;1;1
+Image & Anerkennung;RQ1-M08;Außendarstellung, Marketing & Öffentlichkeitsarbeit;;RQ1-73;Darstellung des Hauses;1;1
+Image & Anerkennung;RQ1-M08;Außendarstellung, Marketing & Öffentlichkeitsarbeit;;RQ1-74;Außendarstellung durch Aktivitäten;1;1
+Image & Anerkennung;RQ1-M08;Außendarstellung, Marketing & Öffentlichkeitsarbeit;;RQ1-75;Außendarstellung Öffentlichkeitsarbit;1;1
+Image & Anerkennung;RQ1-M08;Außendarstellung, Marketing & Öffentlichkeitsarbeit;;RQ1-447;Werbund für den Beruf mit internationalen Möglichkeiten;2;1
+Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;;RQ1-29;Anerkennung als Lohn der Arbiet;1;1
+Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;;RQ1-34;Worte statt Taten bei Wertschätzung gesellschaftlich;1;1
+Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;;RQ1-78;Wertschätzung der Mitarbeitenden als Angebot;1;1
+Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;;RQ1-96;Wertschätzung der Arbeit durch Angehörige oder Patienten;1;1
+Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;;RQ1-97;Gesellschaftliuceh Wertshätzung der Arbeit nicht vorhanden;1;1
+Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;;RQ1-98;Notwendigkeit der Qualität und Ausbildung der Arbeit wird gesellschaftlich nicht wahrgenommen;1;1
+Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;;RQ1-113;Wertschätzugn der Mitarbeitenden;1;1
+Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;;RQ1-212;Wertschätzung des oberen Managements gegenüber dem mittleren Management;2;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image innerhalb der Berufsgruppe;RQ1-31;Personal redet schlecht über die Arbeit;1;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image innerhalb der Berufsgruppe;RQ1-157;Image der Pflege negativ innerhalb der Berufsgruppe;4;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-19;Motivation zum Beruf durch Ansehen des Berufes;7;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-20;Schlechtes Image;3;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-24;Schlechtes Image der schweren körperliche und psychischen Arbeit;1;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-30;Verbesesrung des Images des Berufes in der Gesellschaft;1;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-32;Image Pflege gesellschaftlich vertrauenswürdiger Beruf;4;2
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-33;Image der Pflege keine Wertschätzung der Gesellschaft;2;2
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-43;Schlechtes Image als Hilfspersonal;0;0
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-158;Image der Pflege als schlecht in der Gesellschaft nicht erkennbar;3;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-324;Hohe gesellschaftliche Anerkennung des Berufes;2;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;RQ1-365;Schlechtes Ansehen des Berufes in der Gesellschaft;1;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image der Berufsbezeichnung;RQ1-159;Image des Begriffes Pflegekraft;1;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image der Berufsbezeichnung;RQ1-160;Image des Begriffes Krankenschwester;3;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image der Berufsbezeichnung;RQ1-161;Image des Wordings;2;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image der Berufsbezeichnung;RQ1-162;Gesellschaftliche Wertschätzung des bekannten Wordings;1;1
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image der Berufsbezeichnung;RQ1-163;Wording des Berufes gezielt aussuchen und beibehalten;0;0
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image der Berufsbezeichnung;RQ1-164;Wording beibehalten und Image darauf aufbauen;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-63;Gesundheitsförderung am Arbeitsplatz;7;2
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-109;Mitarbeiter halten durch gutes Betriebsklima;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-111;Arbeitsklima;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-114;Gesundheitsförderung gesundes Essen;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-115;Gesundheitsförderung Sport;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-368;Krisensicherer Arbeitsplatz;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-369;Sozialer Arbeitsplatz;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-370;Attraktiver Arbeitsplatz;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-393;Gesundheitmanagement, Gesundheitsvorsorge;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-395;Vermehrung der Pflegefachkräfte durch Reduktion der Krankheitstage;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-396;Managment muss Gesundheitsvorsorge fördern;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;;RQ1-414;Attraktivität der Berufe steigern;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-8;Rahmenbedingung gutes Gehalt positiv;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-17;Prämienzahlung als Belohnung bei guter Leistung;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-57;Belohnung für Leistungsträger;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-107;Gehalt 2500 Euro Netto für Rückkehr;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-125;Karriere in Zusammenhang mit Gehaltsentwicklung;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-274;Gehalt 6000 Euro Netto für Rückkehr müsste sein in höherer Position;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-288;Leistung in der Pflege belohnen;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-289;Finanzielle Vorteile als Belohnung für Leistung und für persönlichen Einsatz;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-290;Finanzielle Belohnung darf Arbeitssicherheit ncith widersprechen und auch kein falscher Anreiz sein;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-323;3000 Euro Netto;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-326;Geahlt für Rekrutierte entsprechend den Festangestellten;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-327;Prämien gegenüber neutral und ohne Kenntnis;2;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-367;Bezahlung erscheint nicht als Grund zu zählen;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-398;Entlohnung anpassen;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-399;Pflege bestbezahlter Ausbildungsberuf und Helferberuf;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-400;Prämie kontraproduktiv für Arbeitsklima;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-401;Gehaltsunterschiede in den unterschiedlichen Arbeitsbereichen macht Konkurrenz;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-402;Netto 3000 Euro;1;1
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;;RQ1-453;Geld und Prämien als Anreiz weniger wichtig;9;3

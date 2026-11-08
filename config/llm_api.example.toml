@@ -1,0 +1,22 @@
+# Copy this file to `config/llm_api.toml` and fill in your endpoint and key.
+# The real `config/llm_api.toml` is gitignored and must never be committed.
+#
+# This benchmark talks to ANY OpenAI-compatible /chat/completions endpoint. No proprietary
+# gateway is required. For an open, reproducible run you can serve the open-weight models
+# yourself with vLLM or SGLang, or use NVIDIA NIM — see docs/local_serving.md.
+#
+# Recognized keys (only the [llm] table is read):
+#   base_url       -> OpenAI-compatible base URL, e.g. http://localhost:8000/v1
+#   api_key        -> bearer token for that endpoint (any non-empty value for a local server)
+#   model          -> default model id for single-model runs
+#   judge_model    -> default judge model id (the Task B semantic judge)
+#   timeout_seconds
+#
+# Placeholder values (anything starting with "replace-") are treated as unset.
+
+[llm]
+base_url = "http://localhost:8000/v1"
+model = "your-model-id"
+judge_model = "your-judge-model-id"
+api_key = "replace-with-your-endpoint-key"
+timeout_seconds = 60

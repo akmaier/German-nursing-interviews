@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the accompanying paper."
+title: "German Nursing Interviews — an LLM benchmark for Mayring qualitative content analysis"
+version: "0.1.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/akmaier/German-nursing-interviews"
+authors:
+  - family-names: "Zöllner"
+    given-names: "Rita"
+  - family-names: "Mages"
+    given-names: "Silke"
+  - family-names: "Maier"
+    given-names: "Andreas"
+preferred-citation:
+  type: article
+  title: "Large language models reproduce the structure of expert qualitative content analysis in German nursing interviews"
+  authors:
+    - family-names: "Zöllner"
+      given-names: "Rita"
+    - family-names: "Mages"
+      given-names: "Silke"
+    - family-names: "Maier"
+      given-names: "Andreas"
+  year: 2026

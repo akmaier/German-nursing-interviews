@@ -1,0 +1,6 @@
+# Reproducing the results tables needs only the Python 3.11+ standard library — no third-party
+# packages. (The reproduce_*.py scripts use csv, json, glob, math, random, statistics.)
+#
+# Optional, only for RE-RUNNING inference against your own served models (see docs/local_serving.md):
+#   vllm        # or:
+#   sglang
