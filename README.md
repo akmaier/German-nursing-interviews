@@ -14,7 +14,7 @@ subset of 307 interview passages** is included; the two highest-risk interviews 
 (see *Data & participant protection* below).
 
 ## What the benchmark measures
-Two tasks against one expert's Mayring coding (8 dimensions, 27 main categories, 113 subcategories)
+Two tasks against one expert's Mayring coding (8 dimensions, 27 main categories, 26 subcategories, 442 fine categories)
 of German nursing interviews on nurse retention, return to practice and recruitment:
 - **Task A — deductive.** Assign each of 685 passages to one of 27 main categories (closed set).
   13 open-weight models × 5 random seeds, temperature 0.7.
