@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Qualitative Inhaltsanalyse mit LLMs — Demonstrator</title>
+<meta name="description" content="Demonstrator zum Paper „Large language models reproduce the structure of expert qualitative content analysis in German nursing interviews" — ordnet deutschen Pflege-Interviewtext einer von 27 Mayring-Hauptkategorien zu.">
+<link rel="stylesheet" href="./style.css">
+<!-- Cloudflare Turnstile (loaded only if a site key is configured) -->
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit" async defer></script>
+</head>
+<body>
+<main class="wrap">
+  <header>
+    <h1>Qualitative Inhaltsanalyse mit großen Sprachmodellen</h1>
+    <p class="sub">Demonstrator zum Paper <em>„Large language models reproduce the structure of expert
+       qualitative content analysis in German nursing interviews"</em> (Zöllner, Mages &amp; Maier).
+       Ordnet einen deutschen Interview-Ausschnitt (Pflege: Verbleib, Rückkehr, Rekrutierung)
+       einer von <strong>27 Hauptkategorien</strong> der qualitativen Inhaltsanalyse nach Mayring zu.</p>
+    <p class="model-line">Modell: <span id="model">…</span></p>
+  </header>
+
+  <section class="card">
+    <label for="text" class="lbl">Zu klassifizierender Text</label>
+    <textarea id="text" rows="6" maxlength="4000"
+      placeholder="Deutschen Interview-Ausschnitt hier einfügen …"></textarea>
+    <div class="row">
+      <span id="counter" class="counter">0 Zeichen</span>
+      <button id="example" type="button" class="link">Beispiel einfügen</button>
+    </div>
+
+    <div id="turnstile" class="turnstile"></div>
+
+    <button id="go" type="button" class="primary">Klassifizieren</button>
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+  </section>
+
+  <section id="result" class="card result hidden" aria-live="polite"></section>
+
+  <section class="card info">
+    <h2>Hinweise</h2>
+    <ul>
+      <li><strong>Forschungs-Demo.</strong> Einzelabfrage bei niedriger Temperatur; die Zahlen im Paper
+          beruhen auf einem 5-Seed-Mehrheitsentscheid (temp 0.7) — eine Einzelantwort kann abweichen.</li>
+      <li><strong>Datenschutz.</strong> Der eingegebene Text wird zur Klassifikation an den Modellanbieter
+          (NVIDIA NIM) gesendet und <em>nicht</em> gespeichert. Bitte keine personenbezogenen Daten eingeben.</li>
+      <li>Es werden ausschließlich die 27 Hauptkategorien und ihre Definitionen verwendet — keine
+          Interview-Passagen aus der Studie.</li>
+    </ul>
+    <p class="foot">
+      Zöllner, Mages &amp; Maier — LLM-gestützte Mayring-Analyse deutscher Pflege-Interviews.
+      Quellcode &amp; Daten: <a id="repo" href="https://github.com/akmaier/German-nursing-interviews" target="_blank" rel="noopener">github.com/akmaier/German-nursing-interviews</a>.
+    </p>
+  </section>
+</main>
+<script src="./app.js"></script>
+</body>
+</html>

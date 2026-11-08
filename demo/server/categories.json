@@ -1,0 +1,164 @@
+[
+ {
+  "id": "RQ1-M01",
+  "name": "Berufsverbleib & Berufszufriedenheit",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Gründe im Beruf zu bleiben, Zufriedenheit, Sinn und Wert der Pflegearbeit."
+ },
+ {
+  "id": "RQ1-M02",
+  "name": "Ausstiegsgründe & berufliche Belastung",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Gründe den Beruf zu verlassen; körperliche/psychische Belastung, Personalmangel, Krankheit."
+ },
+ {
+  "id": "RQ1-M03",
+  "name": "Arbeitszeit, Dienstplan & Flexibilität",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Schicht-/Wochenenddienst, Teilzeit, Einspringen, flexible und familienfreundliche Arbeitszeiten."
+ },
+ {
+  "id": "RQ1-M04",
+  "name": "Vergütung & finanzielle Anreize",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Gehalt, Entlohnung, Prämien und finanzielle Belohnung als Anreiz oder Streitpunkt."
+ },
+ {
+  "id": "RQ1-M05",
+  "name": "Gesundheitsförderung & Arbeitsumfeld",
+  "dimension": "Berufsverbleib & Arbeitsbedingungen",
+  "definition": "Betriebliches Gesundheitsmanagement, Arbeitsklima, Sicherheit und Attraktivität des Arbeitsplatzes."
+ },
+ {
+  "id": "RQ1-M06",
+  "name": "Image & Ansehen des Pflegeberufs",
+  "dimension": "Image & Anerkennung",
+  "definition": "Gesellschaftliches und innerberufliches Image, Ansehen, Wording/Begrifflichkeiten."
+ },
+ {
+  "id": "RQ1-M07",
+  "name": "Wertschätzung & Anerkennung",
+  "dimension": "Image & Anerkennung",
+  "definition": "Wertschätzung und Anerkennung durch Gesellschaft, Arbeitgeber, Patienten oder Management."
+ },
+ {
+  "id": "RQ1-M08",
+  "name": "Außendarstellung, Marketing & Öffentlichkeitsarbeit",
+  "dimension": "Image & Anerkennung",
+  "definition": "Darstellung von Beruf und Einrichtung nach außen, Marketing, PR, Werbung für den Beruf."
+ },
+ {
+  "id": "RQ1-M09",
+  "name": "Motivation & Eignung des Personals",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Intrinsische/extrinsische Motivation; geeignetes vs. ungeeignetes Personal, Personalauswahl."
+ },
+ {
+  "id": "RQ1-M10",
+  "name": "Karriere & Karrierewege",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Karrierepfade, Aufstieg, Verantwortungsübernahme, Karrierehürden (u.a. für Frauen)."
+ },
+ {
+  "id": "RQ1-M11",
+  "name": "Weiterbildung & Personalentwicklung",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Weiterbildung, gezielte und individuelle Personalentwicklung als Förderung."
+ },
+ {
+  "id": "RQ1-M12",
+  "name": "Ausbildung & Akademisierung",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Ausbildungssystem, Studium vs. Ausbildung, Akademisierung, Pflegewissenschaft, Kompetenzzuschreibung."
+ },
+ {
+  "id": "RQ1-M13",
+  "name": "Autonomie, Rollenklarheit & pflegerische Kompetenz",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Autonomes Arbeiten, Selbstbewusstsein, Rollenklarheit, Professionalisierung und Kompetenzübertragung."
+ },
+ {
+  "id": "RQ1-M14",
+  "name": "Team & Zusammenarbeit",
+  "dimension": "Qualifikation, Entwicklung & Profession",
+  "definition": "Team, Zusammenhalt, Teamkultur und gemeinsames Lernen."
+ },
+ {
+  "id": "RQ1-M15",
+  "name": "Rolle & Haltung der Führung",
+  "dimension": "Management & Führung",
+  "definition": "Rolle, Haltung und Verhalten der (Pflege-)Leitung; hinter dem Personal stehen, Vertrauen, Personenorientierung."
+ },
+ {
+  "id": "RQ1-M16",
+  "name": "Führungskompetenz & Managementausbildung",
+  "dimension": "Management & Führung",
+  "definition": "Führungs- und Methodenkompetenz, Ausbildung/Besetzung des Managements, innovative Managementansätze."
+ },
+ {
+  "id": "RQ1-M17",
+  "name": "Mitarbeiterbindung & -förderung",
+  "dimension": "Management & Führung",
+  "definition": "Maßnahmen des Managements zur Bindung und individuellen Förderung der Mitarbeitenden."
+ },
+ {
+  "id": "RQ1-M18",
+  "name": "Rückgewinnung & Wiedereinstieg",
+  "dimension": "Rückgewinnung & Rekrutierung",
+  "definition": "Rückgewinnungsprogramme, Ansprache, Bedingungen und Onboarding für Rückkehrende; Ausstiegsgründe als Ansatzpunkt."
+ },
+ {
+  "id": "RQ1-M19",
+  "name": "Rekrutierung & Personalgewinnung",
+  "dimension": "Rückgewinnung & Rekrutierung",
+  "definition": "Personalgewinnung über Mitarbeitende, Mundpropaganda, Social Media, Arbeitgeberattraktivität, Anwerbung."
+ },
+ {
+  "id": "RQ1-M20",
+  "name": "Digitalisierung: Implementierung & Akzeptanz",
+  "dimension": "Digitalisierung & Robotik",
+  "definition": "Einführung digitaler Systeme, Strategie, Akzeptanz, Widerstand, Anwenderfreundlichkeit, Fehlerkultur."
+ },
+ {
+  "id": "RQ1-M21",
+  "name": "Digitalisierung: Nutzen & Entlastung",
+  "dimension": "Digitalisierung & Robotik",
+  "definition": "Nutzen der Digitalisierung: Dokumentation, Entlastung, Zeitersparnis, Patientensicherheit, Kommunikation."
+ },
+ {
+  "id": "RQ1-M22",
+  "name": "Digitalisierung: Finanzierung, Recht & Interoperabilität",
+  "dimension": "Digitalisierung & Robotik",
+  "definition": "Finanzierung/Refinanzierung, rechtliche Vorgaben, Schnittstellen, Interoperabilität, Datenschutz, Verlässlichkeit."
+ },
+ {
+  "id": "RQ1-M23",
+  "name": "Robotik & technische Assistenzsysteme",
+  "dimension": "Digitalisierung & Robotik",
+  "definition": "Roboter, Notruf-/Assistenzsysteme, technische Sicherheit, Unterstützung der Selbständigkeit."
+ },
+ {
+  "id": "RQ1-M24",
+  "name": "Pflegepolitik & Interessenvertretung",
+  "dimension": "Politik & System",
+  "definition": "Politische Vertretung der Pflege, Verbände/Selbstverwaltung, Einigkeit/Fragmentierung, berufspolitisches Engagement."
+ },
+ {
+  "id": "RQ1-M25",
+  "name": "Gesundheitssystem: Struktur & Finanzierung",
+  "dimension": "Politik & System",
+  "definition": "Systemstruktur, Finanzierung/Sparen, Tarif, Strukturwandel, Personalschlüssel, Qualität/Regulierung."
+ },
+ {
+  "id": "RQ1-M26",
+  "name": "Internationalisierung & globaler Arbeitsmarkt",
+  "dimension": "Internationalisierung",
+  "definition": "Internationaler Vergleich, weltweiter Wettbewerb um Pflegekräfte, Sprache, internationale Vernetzung."
+ },
+ {
+  "id": "RQ1-M27",
+  "name": "Datengrundlage & Registrierung",
+  "dimension": "Politik & System",
+  "definition": "Fehlende Daten über (ausgeschiedene) Pflegekräfte, Pflichtregistrierung als Datengrundlage."
+ }
+]

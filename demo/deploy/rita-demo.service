@@ -1,0 +1,28 @@
+[Unit]
+Description=RITA Mayring demo proxy (FastAPI/uvicorn -> NVIDIA NIM)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=akmaier
+WorkingDirectory=/home/akmaier/rita-demo/server
+# Secrets live ONLY here, outside the repo, chmod 600:
+EnvironmentFile=/home/akmaier/rita-demo.env
+ExecStart=/home/akmaier/rita-demo/.venv/bin/uvicorn app:app --host 127.0.0.1 --port 8090 --workers 1 --no-server-header
+Restart=on-failure
+RestartSec=3
+
+# --- sandboxing ---
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/home/akmaier/rita-demo
+ProtectKernelTunables=true
+ProtectControlGroups=true
+RestrictAddressFamilies=AF_INET AF_INET6
+MemoryMax=512M
+
+[Install]
+WantedBy=multi-user.target
