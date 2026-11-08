@@ -1,0 +1,13 @@
+Data license — Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The DATA in this repository — the category system (data/codebook.json, data/category_system/)
+and all contents of results/ (predictions, judge verdicts, human ratings, summaries) — is
+licensed under CC BY 4.0. No interview passages or transcripts are included (see DATA_STATEMENT.md).
+
+You are free to share and adapt the material for any purpose, provided you give appropriate credit
+(cite the paper; see CITATION.cff). Full license text: https://creativecommons.org/licenses/by/4.0/
+
+The source code (code/, config/) is licensed separately — see LICENSE.
+
+See DATA_STATEMENT.md for how the data was anonymized and for the residual-risk disclosure. Do not
+attempt to re-identify interview participants.

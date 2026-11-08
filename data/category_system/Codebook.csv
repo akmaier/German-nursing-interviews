@@ -1,0 +1,45 @@
+﻿Dimension;Main Category ID;Main Category;Subcategory;N fine categories;N passages
+Berufsverbleib & Arbeitsbedingungen;RQ1-M01;Berufsverbleib & Berufszufriedenheit;(direkt unter Hauptkategorie);7;15
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Ausstiegsgrund Weiterentwicklung;3;7
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Ausstiegsgrund Belastung;4;6
+Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;Relevanz des Ausstiegsgrundes für die Rückgewinnung;6;8
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Flexible Arbeitszeitmodelle;7;11
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Werbung mit Arbeitszeitmodellen;5;9
+Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Rahmenbedingungen der Arbeitszeiten;10;22
+Politik & System;RQ1-M27;Datengrundlage & Registrierung;(direkt unter Hauptkategorie);7;7
+Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;(direkt unter Hauptkategorie);10;12
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Struktur des Pflegesystems;19;32
+Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Kostenfaktor Pflege im System;12;16
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Klärung der Rolle der Pflege;9;9
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;politische Vertretung der Pflege;18;25
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Vernetzung der Pflege;10;15
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Wahrnehmung der Pflege;20;28
+Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Berufspolitisches Verständnis;7;10
+Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;(direkt unter Hauptkategorie);8;11
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung der Digitalisierung;10;15
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Infrastruktur der Digitalisierung;7;9
+Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Rechtliche Regulation der Digitalisierung;4;9
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Entbürokratisierung und Prozessoptimierung;15;29
+Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Nutzen durch Digitalisierung;6;10
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Implementierungsstrategie der Digitalisierung;8;20
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Hürden der Implementierung der Digitalisierung;7;7
+Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Akzeptanz der Digitalisierung;7;13
+Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;(direkt unter Hauptkategorie);11;14
+Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;(direkt unter Hauptkategorie);42;56
+Management & Führung;RQ1-M17;Mitarbeiterbindung & -förderung;(direkt unter Hauptkategorie);5;6
+Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;(direkt unter Hauptkategorie);10;14
+Management & Führung;RQ1-M15;Rolle & Haltung der Führung;(direkt unter Hauptkategorie);20;34
+Qualifikation, Entwicklung & Profession;RQ1-M14;Team & Zusammenarbeit;(direkt unter Hauptkategorie);3;5
+Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;(direkt unter Hauptkategorie);13;20
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Internationale Anerkennung der Ausbildung;5;7
+Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Implementierung der Akademisierung;10;16
+Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;(direkt unter Hauptkategorie);17;22
+Qualifikation, Entwicklung & Profession;RQ1-M11;Weiterbildung & Personalentwicklung;(direkt unter Hauptkategorie);7;7
+Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;(direkt unter Hauptkategorie);11;23
+Image & Anerkennung;RQ1-M08;Außendarstellung, Marketing & Öffentlichkeitsarbeit;(direkt unter Hauptkategorie);5;6
+Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;(direkt unter Hauptkategorie);8;9
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image innerhalb der Berufsgruppe;2;5
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image in der Gesellschaft;10;24
+Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Image der Berufsbezeichnung;6;8
+Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;(direkt unter Hauptkategorie);12;23
+Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;(direkt unter Hauptkategorie);19;31

@@ -1,0 +1,28 @@
+﻿Dimension ID;Dimension;Main Category ID;Main Category Name;Definition;Absolute Count;N of Documents;N raw categories
+D1;Berufsverbleib & Arbeitsbedingungen;RQ1-M01;Berufsverbleib & Berufszufriedenheit;Gründe im Beruf zu bleiben, Zufriedenheit, Sinn und Wert der Pflegearbeit.;15;3;7
+D1;Berufsverbleib & Arbeitsbedingungen;RQ1-M02;Ausstiegsgründe & berufliche Belastung;"Gründe den Beruf zu verlassen; körperliche/psychische Belastung, Personalmangel, Krankheit.";21;4;13
+D1;Berufsverbleib & Arbeitsbedingungen;RQ1-M03;Arbeitszeit, Dienstplan & Flexibilität;Schicht-/Wochenenddienst, Teilzeit, Einspringen, flexible und familienfreundliche Arbeitszeiten.;42;5;22
+D1;Berufsverbleib & Arbeitsbedingungen;RQ1-M04;Vergütung & finanzielle Anreize;Gehalt, Entlohnung, Prämien und finanzielle Belohnung als Anreiz oder Streitpunkt.;32;5;20
+D1;Berufsverbleib & Arbeitsbedingungen;RQ1-M05;Gesundheitsförderung & Arbeitsumfeld;Betriebliches Gesundheitsmanagement, Arbeitsklima, Sicherheit und Attraktivität des Arbeitsplatzes.;23;3;12
+D2;Image & Anerkennung;RQ1-M06;Image & Ansehen des Pflegeberufs;Gesellschaftliches und innerberufliches Image, Ansehen, Wording/Begrifflichkeiten.;37;4;16
+D2;Image & Anerkennung;RQ1-M07;Wertschätzung & Anerkennung;Wertschätzung und Anerkennung durch Gesellschaft, Arbeitgeber, Patienten oder Management.;9;3;8
+D2;Image & Anerkennung;RQ1-M08;Außendarstellung, Marketing & Öffentlichkeitsarbeit;Darstellung von Beruf und Einrichtung nach außen, Marketing, PR, Werbung für den Beruf.;6;2;5
+D3;Qualifikation, Entwicklung & Profession;RQ1-M09;Motivation & Eignung des Personals;"Intrinsische/extrinsische Motivation; geeignetes vs. ungeeignetes Personal, Personalauswahl.";23;2;11
+D3;Qualifikation, Entwicklung & Profession;RQ1-M10;Karriere & Karrierewege;Karrierepfade, Aufstieg, Verantwortungsübernahme, Karrierehürden (u.a. für Frauen).;22;3;17
+D3;Qualifikation, Entwicklung & Profession;RQ1-M11;Weiterbildung & Personalentwicklung;Weiterbildung, gezielte und individuelle Personalentwicklung als Förderung.;7;2;7
+D3;Qualifikation, Entwicklung & Profession;RQ1-M12;Ausbildung & Akademisierung;Ausbildungssystem, Studium vs. Ausbildung, Akademisierung, Pflegewissenschaft, Kompetenzzuschreibung.;24;3;16
+D3;Qualifikation, Entwicklung & Profession;RQ1-M13;Autonomie, Rollenklarheit & pflegerische Kompetenz;Autonomes Arbeiten, Selbstbewusstsein, Rollenklarheit, Professionalisierung und Kompetenzübertragung.;20;4;13
+D3;Qualifikation, Entwicklung & Profession;RQ1-M14;Team & Zusammenarbeit;Team, Zusammenhalt, Teamkultur und gemeinsames Lernen.;5;2;3
+D4;Management & Führung;RQ1-M15;Rolle & Haltung der Führung;"Rolle, Haltung und Verhalten der (Pflege-)Leitung; hinter dem Personal stehen, Vertrauen, Personenorientierung.";34;5;20
+D4;Management & Führung;RQ1-M16;Führungskompetenz & Managementausbildung;Führungs- und Methodenkompetenz, Ausbildung/Besetzung des Managements, innovative Managementansätze.;14;2;10
+D4;Management & Führung;RQ1-M17;Mitarbeiterbindung & -förderung;Maßnahmen des Managements zur Bindung und individuellen Förderung der Mitarbeitenden.;6;4;5
+D5;Rückgewinnung & Rekrutierung;RQ1-M18;Rückgewinnung & Wiedereinstieg;"Rückgewinnungsprogramme, Ansprache, Bedingungen und Onboarding für Rückkehrende; Ausstiegsgründe als Ansatzpunkt.";55;5;41
+D5;Rückgewinnung & Rekrutierung;RQ1-M19;Rekrutierung & Personalgewinnung;Personalgewinnung über Mitarbeitende, Mundpropaganda, Social Media, Arbeitgeberattraktivität, Anwerbung.;14;4;11
+D6;Digitalisierung & Robotik;RQ1-M20;Digitalisierung: Implementierung & Akzeptanz;Einführung digitaler Systeme, Strategie, Akzeptanz, Widerstand, Anwenderfreundlichkeit, Fehlerkultur.;40;4;21
+D6;Digitalisierung & Robotik;RQ1-M21;Digitalisierung: Nutzen & Entlastung;Nutzen der Digitalisierung: Dokumentation, Entlastung, Zeitersparnis, Patientensicherheit, Kommunikation.;39;4;21
+D6;Digitalisierung & Robotik;RQ1-M22;Digitalisierung: Finanzierung, Recht & Interoperabilität;Finanzierung/Refinanzierung, rechtliche Vorgaben, Schnittstellen, Interoperabilität, Datenschutz, Verlässlichkeit.;34;4;22
+D6;Digitalisierung & Robotik;RQ1-M23;Robotik & technische Assistenzsysteme;Roboter, Notruf-/Assistenzsysteme, technische Sicherheit, Unterstützung der Selbständigkeit.;11;2;8
+D7;Politik & System;RQ1-M24;Pflegepolitik & Interessenvertretung;Politische Vertretung der Pflege, Verbände/Selbstverwaltung, Einigkeit/Fragmentierung, berufspolitisches Engagement.;86;4;63
+D7;Politik & System;RQ1-M25;Gesundheitssystem: Struktur & Finanzierung;Systemstruktur, Finanzierung/Sparen, Tarif, Strukturwandel, Personalschlüssel, Qualität/Regulierung.;48;4;31
+D8;Internationalisierung;RQ1-M26;Internationalisierung & globaler Arbeitsmarkt;Internationaler Vergleich, weltweiter Wettbewerb um Pflegekräfte, Sprache, internationale Vernetzung.;11;1;9
+D7;Politik & System;RQ1-M27;Datengrundlage & Registrierung;Fehlende Daten über (ausgeschiedene) Pflegekräfte, Pflichtregistrierung als Datengrundlage.;7;2;7

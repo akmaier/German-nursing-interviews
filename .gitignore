@@ -1,0 +1,26 @@
+# Never commit real credentials
+config/llm_api.toml
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Reproduction script outputs (regenerated locally)
+code/reproduced_RESULTS_taskA.md
+code/reproduced_RESULTS_taskB.md
+
+# OS
+.DS_Store
+
+# --- Participant protection: interview passages & transcripts are NEVER published ---
+# Even redacted / paraphrased passages carry residual re-identification risk (Rita Zöllner's
+# determination; see DATA_STATEMENT.md). Keep every form of passage/transcript text out of the repo.
+data/eval_set.csv
+data/eval_set_redacted.csv
+data/source/
+**/*marked_text*
+**/*MarkedPassages*
+**/*transcript*
+
+# reproduction build artifacts
+results/reproduced/
