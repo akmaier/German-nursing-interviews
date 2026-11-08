@@ -4,8 +4,8 @@
 > Paste German nursing-interview text and get its Mayring main category (one of 27),
 > powered by NVIDIA Nemotron. Built on the released category system — no interview data involved.
 
-Code and anonymized data for the study *"Large language models reproduce the structure of expert
-qualitative content analysis in German nursing interviews"* (R. Zöllner, S. Mages, A. Maier).
+Code and anonymized data for the study *"An open workflow for Mayring qualitative content analysis
+of nursing interviews with large language models and artificial intelligence agents"* (R. Zöllner, S. Mages, A. Maier).
 
 It contains the benchmark **code**, the **anonymized category system and gold labels**, the **model
 predictions and LLM-judge verdicts**, the **human-validation ratings**, and scripts that
