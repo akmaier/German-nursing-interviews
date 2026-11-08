@@ -41,6 +41,29 @@ Fork two repositories and let an agent drive them:
 > coding; a domain expert must validate the categories and judge the acceptability of disagreements.
 > Treat the models as first-pass coders, not autonomous analysts.
 
+### Preliminaries — from interviews to text (transcription)
+Before step 0 you need your interviews as **text**. Two routes, from quickest to highest quality:
+
+- **Voice typing on a phone** (fastest — good for notes or short interviews).
+  - *iPhone:* tap the microphone on the keyboard in Notes (or any text field) and speak; or record in
+    **Voice Memos** and use its built-in transcript (iOS 18+).
+  - *Android:* use **Gboard** voice typing (the mic key), or the **Recorder** app (Pixel) / **Live
+    Transcribe**, which transcribe live as you speak.
+  - Speak clearly; afterwards split the text into coding units (one statement/idea per line).
+
+- **Whisper ASR** (recommended for recorded interviews — runs **locally**, so recordings never leave your machine).
+  ```bash
+  pip install -U openai-whisper          # also needs ffmpeg:  brew install ffmpeg  /  apt install ffmpeg
+  whisper interview01.m4a --model large-v3 --language de --output_format txt
+  ```
+  Use `--model large-v3` for German quality and `--output_format srt` if you want timestamps. For speed use
+  **faster-whisper** or **whisper.cpp**; for speaker turns ("who said what") add diarization via **WhisperX**
+  or **pyannote.audio**. Keeping Whisper local means raw audio and transcripts stay on your own hardware —
+  important for participant data protection; only de-identified, segmented passages later reach the (internal)
+  LLM endpoint.
+
+Then clean and segment each transcript into passages (one coding unit per `passage_id`) and continue below.
+
 ### 0. Setup
 1. Fork and clone both repos.
 2. Transcribe your interviews and segment each into **coding units** (passages) — typically one
