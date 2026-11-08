@@ -12,7 +12,10 @@ const EXAMPLE =
   "Viele Kolleginnen und Kollegen würden wieder in die Pflege zurückkehren, wenn die " +
   "Dienstpläne verlässlicher wären und sich Familie und Schichtdienst besser vereinbaren ließen.";
 
-let turnstileId = null, sitekey = "", maxChars = 4000, maxBatch = 20;
+let turnstileId = null, sitekey = "", maxChars = 4000, maxBatch = 20, turnstileReady = false;
+
+// Cloudflare calls this when its script has finished loading (api.js?onload=onTurnstileReady).
+window.onTurnstileReady = function () { turnstileReady = true; maybeRenderTurnstile(); };
 
 function setStatus(msg, isErr) {
   statusEl.textContent = msg || "";
@@ -34,20 +37,31 @@ async function loadConfig() {
     maxBatch = c.max_batch_passages || 20;
     const mb = $("maxBatch"); if (mb) mb.textContent = String(maxBatch);
     sitekey = c.turnstile_sitekey || "";
-    if (sitekey && window.turnstile) renderTurnstile();
-    else if (sitekey) {
-      // api.js may still be loading; retry shortly
-      const t = setInterval(() => {
-        if (window.turnstile) { clearInterval(t); renderTurnstile(); }
-      }, 300);
-      setTimeout(() => clearInterval(t), 6000);
-    }
+    maybeRenderTurnstile();
   } catch (e) { $("model").textContent = "—"; }
 }
 
-function renderTurnstile() {
+// Render exactly once, whenever BOTH the config (sitekey) and the Turnstile script are ready —
+// regardless of which arrives first. Surfaces failures instead of hiding them.
+function maybeRenderTurnstile() {
+  if (!sitekey || !turnstileReady || turnstileId !== null || !window.turnstile) return;
   try {
-    turnstileId = window.turnstile.render("#turnstile", { sitekey, theme: "auto" });
+    turnstileId = window.turnstile.render("#turnstile", {
+      sitekey, theme: "auto",
+      "error-callback": (code) => {
+        setStatus("Bot-Prüfung konnte nicht geladen werden" + (code ? ` (Code ${code})` : "") +
+          ". Bitte den Tracking-/Werbeschutz für diese Seite lockern oder einen anderen Browser versuchen.", true);
+        return true;
+      },
+    });
+    // If no challenge appears within a few seconds, hint the likely cause (browser tracking protection).
+    setTimeout(() => {
+      if (!document.querySelector("#turnstile iframe") && !token()) {
+        setStatus("Hinweis: Die Cloudflare-Bot-Prüfung erscheint nicht — meist blockiert der Tracking-Schutz " +
+          "des Browsers (etwa der verbesserte Schutz vor Aktivitätenverfolgung in Firefox). Bitte ihn für diese " +
+          "Seite deaktivieren (Schild-Symbol in der Adressleiste) oder einen anderen Browser nutzen.", true);
+      }
+    }, 7000);
   } catch (e) { /* already rendered */ }
 }
 
