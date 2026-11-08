@@ -13,7 +13,7 @@ authors:
     given-names: "Andreas"
 preferred-citation:
   type: article
-  title: "Large language models reproduce the structure of expert qualitative content analysis in German nursing interviews"
+  title: "An open workflow for Mayring qualitative content analysis of nursing interviews with large language models and artificial intelligence agents"
   authors:
     - family-names: "Zöllner"
       given-names: "Rita"
