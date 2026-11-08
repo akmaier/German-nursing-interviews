@@ -75,3 +75,9 @@ a{color:var(--accent)}
 .keymsg p{margin:.35em 0;font-size:.95rem}
 .keylink{color:var(--accent);font-weight:600;text-decoration:none}
 .keylink:hover{text-decoration:underline}
+
+/* language switcher */
+.lang{text-align:right;font-size:.85rem;margin:0 0 .3em;color:var(--muted)}
+.lang a{color:var(--accent);text-decoration:none}
+.lang a:hover{text-decoration:underline}
+.lang strong{color:var(--fg)}
