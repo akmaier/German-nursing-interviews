@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Qualitative Inhaltsanalyse mit LLMs — Demonstrator</title>
+<meta name="description" content="Demonstrator zum Paper „Large language models reproduce the structure of expert qualitative content analysis in German nursing interviews" — ordnet deutschen Pflege-Interviewtext einer von 27 Mayring-Hauptkategorien zu.">
+<link rel="stylesheet" href="./style.css">
+<!-- Cloudflare Turnstile (loaded only if a site key is configured) -->
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onTurnstileReady&render=explicit" async defer></script>
+</head>
+<body>
+<main class="wrap">
+  <nav class="lang"><strong>DE</strong> · <a href="en/">EN</a></nav>
+  <header>
+    <h1>Qualitative Inhaltsanalyse mit großen Sprachmodellen</h1>
+    <p class="sub">Demonstrator zum Paper <em>„Large language models reproduce the structure of expert
+       qualitative content analysis in German nursing interviews"</em> (Zöllner, Mages &amp; Maier).
+       Ordnet einen deutschen Interview-Ausschnitt (Pflege: Verbleib, Rückkehr, Rekrutierung)
+       einer von <strong>27 Hauptkategorien</strong> der qualitativen Inhaltsanalyse nach Mayring zu.</p>
+    <p class="model-line">Modell: <span id="model">…</span></p>
+  </header>
+
+  <section class="card keymsg">
+    <p><strong>Mehr als eine Demo.</strong> Dieses Projekt veröffentlicht den vollständigen offenen Code und
+       die Pipeline, mit der Sie — unterstützt durch agentische KI
+       (<a href="https://github.com/akmaier/agent-m" target="_blank" rel="noopener">Agent&#8209;M</a>,
+       Begleittool zum Lehrbuch <em>Vibe Coding</em>) — Ihr <strong>eigenes</strong> Mayring&#8209;Kategoriensystem
+       inklusive Feinkategorien aufbauen, kalibrieren und anwenden können — nicht nur diese Einzeldemo.</p>
+    <p><a class="keylink" href="https://github.com/akmaier/German-nursing-interviews#build-your-own-mayring-category-system-fork--agentic-pipeline"
+       target="_blank" rel="noopener">Anleitung &amp; Code auf GitHub: eigenes Kategoriensystem bauen →</a></p>
+  </section>
+
+  <section class="card">
+    <label for="text" class="lbl">Zu klassifizierender Text</label>
+    <textarea id="text" rows="8" maxlength="20000"
+      placeholder="Einzelne Passage — oder ein ganzes Interview, eine Passage je Absatz/Zeile."></textarea>
+    <div class="row">
+      <span id="counter" class="counter">0 Zeichen</span>
+      <button id="example" type="button" class="link">Beispiel einfügen</button>
+    </div>
+
+    <div id="turnstile" class="turnstile"></div>
+
+    <div class="btns">
+      <button id="go" type="button" class="primary">Passage klassifizieren</button>
+      <button id="goBatch" type="button" class="secondary">Ganzes Interview → CSV</button>
+    </div>
+    <p class="hint">Bei „Ganzes Interview" wird jeder Absatz (bzw. jede Zeile) als eigene Passage klassifiziert;
+       das Ergebnis lässt sich als CSV-Datei (für Excel) herunterladen. Max. <span id="maxBatch">20</span> Passagen pro Durchlauf.</p>
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+  </section>
+
+  <section id="result" class="card result hidden" aria-live="polite"></section>
+
+  <section id="batchResult" class="card result hidden" aria-live="polite"></section>
+
+  <section class="card info">
+    <h2>Hinweise</h2>
+    <ul>
+      <li><strong>Forschungs-Demo.</strong> Einzelabfrage bei niedriger Temperatur; die Zahlen im Paper
+          beruhen auf einem 5-Seed-Mehrheitsentscheid (temp 0.7) — eine Einzelantwort kann abweichen.</li>
+      <li><strong>Datenverarbeitung &amp; Datenschutz.</strong> Der eingegebene Text wird zur Klassifikation
+          an <strong>NVIDIA</strong> (NIM-API) gesendet und dort auf Servern <strong>in den USA</strong>
+          verarbeitet. Er wird hier nicht gespeichert, verlässt aber die EU. <strong>Bitte keine
+          personenbezogenen oder sonst sensiblen Daten eingeben</strong> und vorab die KI- bzw.
+          Datenschutz-Richtlinien Ihrer Einrichtung prüfen. Für den produktiven Einsatz mit echten
+          Interviewdaten empfehlen wir, das Projekt zu
+          <a href="https://github.com/akmaier/German-nursing-interviews" target="_blank" rel="noopener">forken</a>
+          und einen einrichtungsinternen LLM-Endpunkt zu verwenden (über eine Konfigurationsvariable umstellbar).</li>
+      <li>Serverseitig werden ausschließlich die 27 Hauptkategorien und ihre Definitionen verwendet — keine
+          Interview-Passagen aus der Studie.</li>
+    </ul>
+    <p class="foot">
+      Zöllner, Mages &amp; Maier — LLM-gestützte Mayring-Analyse deutscher Pflege-Interviews.
+      Quellcode &amp; Daten: <a id="repo" href="https://github.com/akmaier/German-nursing-interviews" target="_blank" rel="noopener">github.com/akmaier/German-nursing-interviews</a>.
+    </p>
+  </section>
+</main>
+<script src="./app.js"></script>
+</body>
+</html>

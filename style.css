@@ -1,0 +1,83 @@
+:root{
+  --bg:#f6f7f9; --fg:#1b1e23; --muted:#5b6472; --card:#ffffff; --border:#e2e6ec;
+  --accent:#2f6df6; --accent-fg:#ffffff; --ok:#1a7f5a; --warn:#b4472b; --chip:#eef2f8;
+  --shadow:0 1px 3px rgba(20,30,50,.08),0 6px 20px rgba(20,30,50,.06);
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#0f1115; --fg:#e7eaf0; --muted:#9aa4b2; --card:#171a21; --border:#262b34;
+    --accent:#5a8bff; --accent-fg:#0b1220; --ok:#54d1a0; --warn:#ff8a66; --chip:#1d222c;
+    --shadow:0 1px 3px rgba(0,0,0,.5);
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);
+  font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:720px;margin:0 auto;padding:32px 16px 64px}
+header h1{font-size:1.5rem;margin:0 0 .3em}
+.sub{color:var(--muted);margin:.2em 0 .6em}
+.model-line{color:var(--muted);font-size:.9rem;margin:0 0 1.2em}
+.card{background:var(--card);border:1px solid var(--border);border-radius:14px;
+  padding:20px;margin:16px 0;box-shadow:var(--shadow)}
+.lbl{display:block;font-weight:600;margin-bottom:8px}
+textarea{width:100%;resize:vertical;border:1px solid var(--border);border-radius:10px;
+  padding:12px;background:var(--bg);color:var(--fg);font:inherit}
+textarea:focus{outline:2px solid var(--accent);border-color:transparent}
+.row{display:flex;justify-content:space-between;align-items:center;margin:8px 0 4px}
+.counter{color:var(--muted);font-size:.85rem}
+.link{background:none;border:none;color:var(--accent);cursor:pointer;font:inherit;padding:0}
+.link:hover{text-decoration:underline}
+.turnstile{margin:12px 0;min-height:0}
+.primary{margin-top:10px;width:100%;background:var(--accent);color:var(--accent-fg);
+  border:none;border-radius:10px;padding:13px 16px;font:600 1rem/1 inherit;cursor:pointer}
+.primary:disabled{opacity:.55;cursor:not-allowed}
+.status{min-height:1.2em;margin:.6em 0 0;color:var(--muted);font-size:.92rem}
+.status.err{color:var(--warn)}
+.hidden{display:none}
+.result h2{margin:0 0 .3em;font-size:1.05rem;color:var(--muted);font-weight:600}
+.cat-id{font:600 .8rem/1 ui-monospace,monospace;color:var(--muted)}
+.cat-name{font-size:1.35rem;font-weight:700;margin:.15em 0}
+.chip{display:inline-block;background:var(--chip);border:1px solid var(--border);
+  border-radius:999px;padding:3px 10px;font-size:.8rem;color:var(--muted);margin:.2em 0}
+.def{color:var(--muted);margin:.5em 0}
+.begr{border-left:3px solid var(--accent);padding:.1em 0 .1em .8em;margin:.8em 0;color:var(--fg)}
+.alts{margin:.8em 0 0;padding:0;list-style:none;display:flex;flex-wrap:wrap;gap:8px}
+.alts li{background:var(--chip);border:1px solid var(--border);border-radius:8px;
+  padding:6px 10px;font-size:.85rem}
+.alts .aid{font:600 .72rem/1 ui-monospace,monospace;color:var(--muted);display:block}
+.note{color:var(--muted);font-size:.82rem;margin:1em 0 0}
+.info h2{font-size:1rem;margin:0 0 .5em}
+.info ul{margin:0 0 .6em;padding-left:1.2em}
+.info li{margin:.3em 0}
+.foot{color:var(--muted);font-size:.82rem;border-top:1px solid var(--border);padding-top:.8em;margin:.8em 0 0}
+a{color:var(--accent)}
+
+/* whole-interview batch mode */
+.btns{display:flex;gap:10px;margin-top:10px;flex-wrap:wrap}
+.btns .primary,.btns .secondary{margin-top:0;flex:1 1 auto;width:auto;min-width:160px}
+.secondary{background:var(--chip);color:var(--fg);border:1px solid var(--border);
+  border-radius:10px;padding:11px 14px;font:inherit;font-weight:600;cursor:pointer}
+.secondary:hover{border-color:var(--accent)}
+.secondary:disabled{opacity:.55;cursor:not-allowed}
+.hint{color:var(--muted);font-size:.84rem;margin:.6em 0 0}
+.batchhead{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.batchhead h2{margin:0}
+.batchhead .secondary{margin:0;flex:0 0 auto}
+.tablewrap{overflow-x:auto;margin-top:.6em}
+.btable{width:100%;border-collapse:collapse;font-size:.86rem}
+.btable th,.btable td{text-align:left;padding:7px 9px;border-bottom:1px solid var(--border);vertical-align:top}
+.btable th{color:var(--muted);font-weight:600;white-space:nowrap}
+.btable .pcell{max-width:34ch;color:var(--fg)}
+.btable .err{color:var(--warn)}
+
+/* key-message callout */
+.keymsg{border-left:4px solid var(--accent);background:var(--chip)}
+.keymsg p{margin:.35em 0;font-size:.95rem}
+.keylink{color:var(--accent);font-weight:600;text-decoration:none}
+.keylink:hover{text-decoration:underline}
+
+/* language switcher */
+.lang{text-align:right;font-size:.85rem;margin:0 0 .3em;color:var(--muted)}
+.lang a{color:var(--accent);text-decoration:none}
+.lang a:hover{text-decoration:underline}
+.lang strong{color:var(--fg)}
