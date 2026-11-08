@@ -22,8 +22,8 @@
 
   <section class="card">
     <label for="text" class="lbl">Zu klassifizierender Text</label>
-    <textarea id="text" rows="6" maxlength="4000"
-      placeholder="Deutschen Interview-Ausschnitt hier einfügen …"></textarea>
+    <textarea id="text" rows="8" maxlength="20000"
+      placeholder="Einzelne Passage — oder ein ganzes Interview, eine Passage je Absatz/Zeile."></textarea>
     <div class="row">
       <span id="counter" class="counter">0 Zeichen</span>
       <button id="example" type="button" class="link">Beispiel einfügen</button>
@@ -31,20 +31,33 @@
 
     <div id="turnstile" class="turnstile"></div>
 
-    <button id="go" type="button" class="primary">Klassifizieren</button>
+    <div class="btns">
+      <button id="go" type="button" class="primary">Passage klassifizieren</button>
+      <button id="goBatch" type="button" class="secondary">Ganzes Interview → CSV</button>
+    </div>
+    <p class="hint">Bei „Ganzes Interview" wird jeder Absatz (bzw. jede Zeile) als eigene Passage klassifiziert;
+       das Ergebnis lässt sich als CSV-Datei (für Excel) herunterladen. Max. <span id="maxBatch">20</span> Passagen pro Durchlauf.</p>
     <p id="status" class="status" role="status" aria-live="polite"></p>
   </section>
 
   <section id="result" class="card result hidden" aria-live="polite"></section>
+
+  <section id="batchResult" class="card result hidden" aria-live="polite"></section>
 
   <section class="card info">
     <h2>Hinweise</h2>
     <ul>
       <li><strong>Forschungs-Demo.</strong> Einzelabfrage bei niedriger Temperatur; die Zahlen im Paper
           beruhen auf einem 5-Seed-Mehrheitsentscheid (temp 0.7) — eine Einzelantwort kann abweichen.</li>
-      <li><strong>Datenschutz.</strong> Der eingegebene Text wird zur Klassifikation an den Modellanbieter
-          (NVIDIA NIM) gesendet und <em>nicht</em> gespeichert. Bitte keine personenbezogenen Daten eingeben.</li>
-      <li>Es werden ausschließlich die 27 Hauptkategorien und ihre Definitionen verwendet — keine
+      <li><strong>Datenverarbeitung &amp; Datenschutz.</strong> Der eingegebene Text wird zur Klassifikation
+          an <strong>NVIDIA</strong> (NIM-API) gesendet und dort auf Servern <strong>in den USA</strong>
+          verarbeitet. Er wird hier nicht gespeichert, verlässt aber die EU. <strong>Bitte keine
+          personenbezogenen oder sonst sensiblen Daten eingeben</strong> und vorab die KI- bzw.
+          Datenschutz-Richtlinien Ihrer Einrichtung prüfen. Für den produktiven Einsatz mit echten
+          Interviewdaten empfehlen wir, das Projekt zu
+          <a href="https://github.com/akmaier/German-nursing-interviews" target="_blank" rel="noopener">forken</a>
+          und einen einrichtungsinternen LLM-Endpunkt zu verwenden (über eine Konfigurationsvariable umstellbar).</li>
+      <li>Serverseitig werden ausschließlich die 27 Hauptkategorien und ihre Definitionen verwendet — keine
           Interview-Passagen aus der Studie.</li>
     </ul>
     <p class="foot">

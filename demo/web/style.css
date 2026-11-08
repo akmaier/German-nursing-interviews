@@ -51,3 +51,21 @@ textarea:focus{outline:2px solid var(--accent);border-color:transparent}
 .info li{margin:.3em 0}
 .foot{color:var(--muted);font-size:.82rem;border-top:1px solid var(--border);padding-top:.8em;margin:.8em 0 0}
 a{color:var(--accent)}
+
+/* whole-interview batch mode */
+.btns{display:flex;gap:10px;margin-top:10px;flex-wrap:wrap}
+.btns .primary,.btns .secondary{margin-top:0;flex:1 1 auto;width:auto;min-width:160px}
+.secondary{background:var(--chip);color:var(--fg);border:1px solid var(--border);
+  border-radius:10px;padding:11px 14px;font:inherit;font-weight:600;cursor:pointer}
+.secondary:hover{border-color:var(--accent)}
+.secondary:disabled{opacity:.55;cursor:not-allowed}
+.hint{color:var(--muted);font-size:.84rem;margin:.6em 0 0}
+.batchhead{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.batchhead h2{margin:0}
+.batchhead .secondary{margin:0;flex:0 0 auto}
+.tablewrap{overflow-x:auto;margin-top:.6em}
+.btable{width:100%;border-collapse:collapse;font-size:.86rem}
+.btable th,.btable td{text-align:left;padding:7px 9px;border-bottom:1px solid var(--border);vertical-align:top}
+.btable th{color:var(--muted);font-weight:600;white-space:nowrap}
+.btable .pcell{max-width:34ch;color:var(--fg)}
+.btable .err{color:var(--warn)}

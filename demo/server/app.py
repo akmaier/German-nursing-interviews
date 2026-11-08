@@ -49,7 +49,9 @@ ALLOW_INSECURE_NO_TURNSTILE = _bool("ALLOW_INSECURE_NO_TURNSTILE")  # dev-only o
 PROXY_SHARED_SECRET = _env("PROXY_SHARED_SECRET")          # must match Apache's X-Rita-Proxy header
 
 MAX_BODY_BYTES  = _int("MAX_BODY_BYTES", 32768)            # hard cap before any parsing (DoS guard)
-MAX_INPUT_CHARS = _int("MAX_INPUT_CHARS", 4000)
+MAX_INPUT_CHARS = _int("MAX_INPUT_CHARS", 4000)            # per passage
+MAX_BATCH_PASSAGES = _int("MAX_BATCH_PASSAGES", 20)        # whole-interview mode: passages per request
+BATCH_WALL_SECONDS = _int("BATCH_WALL_SECONDS", 45)        # stop a batch before Apache's proxy timeout
 RATE_PER_MIN    = _int("RATE_PER_MIN", 6)                  # per client IP
 RATE_PER_DAY    = _int("RATE_PER_DAY", 100)                # per client IP
 DAILY_CALL_CAP  = _int("DAILY_CALL_CAP", 3000)             # global budget breaker
@@ -244,6 +246,10 @@ class ClassifyIn(BaseModel):
     text: str = Field(..., max_length=MAX_BODY_BYTES)
     turnstile_token: str | None = Field(None, max_length=4096)
 
+class ClassifyBatchIn(BaseModel):
+    passages: list[str] = Field(..., max_length=MAX_BATCH_PASSAGES)
+    turnstile_token: str | None = Field(None, max_length=4096)
+
 def _cors(resp: JSONResponse) -> JSONResponse:
     resp.headers["Access-Control-Allow-Origin"] = ALLOWED_ORIGIN
     resp.headers["Vary"] = "Origin"
@@ -270,6 +276,7 @@ async def config():
         "turnstile_sitekey": TURNSTILE_SITEKEY,
         "model_display": MODEL_DISPLAY,
         "max_input_chars": MAX_INPUT_CHARS,
+        "max_batch_passages": MAX_BATCH_PASSAGES,
         "rate_per_min": RATE_PER_MIN,
     }))
 
@@ -282,6 +289,42 @@ async def classify_options():
     return r
 
 JSON_OBJ = re.compile(r"\{.*\}", re.DOTALL)
+
+async def _run_model(text: str, http: httpx.AsyncClient):
+    """Run the fixed classification prompt on one text. The caller owns all guards, rate
+    limiting, Turnstile and budget accounting. Returns (result_or_None, status) where
+    status in {'ok','notclassified','connect_error','upstream_error'}. 'connect_error' means
+    no upstream cost was incurred (the caller may refund a reserved budget unit)."""
+    user_msg = f'Zu klassifizierender Text:\n"""\n{text}\n"""'
+    payload = {
+        "model": NIM_MODEL,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user_msg},
+        ],
+        "temperature": NIM_TEMPERATURE,
+        "max_tokens": NIM_MAX_TOKENS,
+        "stream": False,
+    }
+    payload.update(NIM_EXTRA_BODY)
+    try:
+        r = await http.post(
+            f"{NIM_BASE_URL}/chat/completions",
+            headers={"Authorization": f"Bearer {NIM_API_KEY}", "Content-Type": "application/json"},
+            json=payload,
+        )
+    except (httpx.ConnectError, httpx.ConnectTimeout, httpx.PoolTimeout):
+        return None, "connect_error"
+    except Exception:
+        return None, "upstream_error"
+    if r.status_code != 200:
+        return None, "upstream_error"
+    try:
+        content = r.json()["choices"][0]["message"]["content"]
+    except Exception:
+        return None, "upstream_error"
+    result = parse_and_validate(content)
+    return result, ("ok" if result else "notclassified")
 
 @app.post("/api/classify")
 async def classify(body: ClassifyIn, request: Request):
@@ -320,47 +363,18 @@ async def classify(body: ClassifyIn, request: Request):
     if not limiter.reserve_global():
         return err(503, "Das heutige Anfrage-Kontingent der Demo ist aufgebraucht. Bitte morgen erneut.")
 
-    # 5) build the fixed request — the client never controls model/params/prompt
-    user_msg = f'Zu klassifizierender Text:\n"""\n{text}\n"""'
-    payload = {
-        "model": NIM_MODEL,
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_msg},
-        ],
-        "temperature": NIM_TEMPERATURE,
-        "max_tokens": NIM_MAX_TOKENS,
-        "stream": False,
-    }
-    payload.update(NIM_EXTRA_BODY)
-
+    # 5) run the model — the client never controls model/params/prompt
     t0 = time.time()
-    try:
-        r = await request.app.state.http.post(
-            f"{NIM_BASE_URL}/chat/completions",
-            headers={"Authorization": f"Bearer {NIM_API_KEY}", "Content-Type": "application/json"},
-            json=payload,
-        )
-    except (httpx.ConnectError, httpx.ConnectTimeout, httpx.PoolTimeout) as e:
-        limiter.release_global()         # no upstream cost incurred -> give the budget unit back
-        log.warning("upstream connect error ip=%s: %s", iphash(ip), type(e).__name__)
-        return err(502, "Modell nicht erreichbar. Bitte später erneut versuchen.")
-    except Exception as e:
-        # request likely reached the provider (e.g. read timeout) -> keep the reservation
-        log.warning("upstream error ip=%s: %s", iphash(ip), type(e).__name__)
-        return err(502, "Modell nicht erreichbar. Bitte später erneut versuchen.")
+    result, status = await _run_model(text, request.app.state.http)
     dt = time.time() - t0
-
-    if r.status_code != 200:
-        log.warning("upstream status=%s ip=%s", r.status_code, iphash(ip))
+    if status == "connect_error":
+        limiter.release_global()         # no upstream cost incurred -> give the budget unit back
+        log.warning("upstream connect error ip=%s", iphash(ip))
+        return err(502, "Modell nicht erreichbar. Bitte später erneut versuchen.")
+    if status == "upstream_error":
+        log.warning("upstream error ip=%s", iphash(ip))
         return err(502, "Modellfehler. Bitte später erneut versuchen.")
 
-    try:
-        content = r.json()["choices"][0]["message"]["content"]
-    except Exception:
-        return err(502, "Unerwartete Modellantwort.")
-
-    result = parse_and_validate(content)
     # privacy: never log the raw input; only a hash prefix + length + outcome
     log.info("classify ip=%s in_sha=%s len=%d -> %s %.2fs",
              iphash(ip), hashlib.sha256(text.encode()).hexdigest()[:10],
@@ -375,6 +389,76 @@ async def classify(body: ClassifyIn, request: Request):
                                "note": "Einzelabfrage bei niedriger Temperatur. Die Paper-Zahlen "
                                        "beruhen auf 5-Seed-Mehrheitsentscheid bei temp 0.7 — "
                                        "eine Einzelantwort kann abweichen."}))
+
+@app.options("/api/classify_batch")
+async def classify_batch_options():
+    r = _cors(JSONResponse({"ok": True}))
+    r.headers["Access-Control-Allow-Methods"] = "POST, OPTIONS"
+    r.headers["Access-Control-Allow-Headers"] = "Content-Type"
+    r.headers["Access-Control-Max-Age"] = "86400"
+    return r
+
+@app.post("/api/classify_batch")
+async def classify_batch(body: ClassifyBatchIn, request: Request):
+    """Whole-interview mode: classify up to MAX_BATCH_PASSAGES passages in one request.
+    One Turnstile token and one per-IP rate slot cover the batch; each passage draws one
+    unit of the global daily budget. Processing stops early at the wall-clock budget so the
+    request returns before Apache's proxy timeout; unprocessed passages are reported as skipped."""
+    if kill_switched():
+        return err(503, "Die Demo ist derzeit deaktiviert.")
+    if not NIM_API_KEY:
+        return err(503, "Server ist nicht konfiguriert (kein Modell-Zugang).")
+    if PROXY_SHARED_SECRET and request.headers.get("x-rita-proxy") != PROXY_SHARED_SECRET:
+        return err(403, "Direkter Zugriff nicht erlaubt.")
+    if not TURNSTILE_SECRET and not ALLOW_INSECURE_NO_TURNSTILE:
+        return err(503, "Server ist nicht korrekt konfiguriert (Bot-Schutz fehlt).")
+
+    ip = client_ip(request)
+
+    # normalise + validate passages locally (cheap) before spending any quota
+    passages = [re.sub(r"\s+", " ", (p or "")).strip() for p in body.passages]
+    passages = [p for p in passages if p]
+    if not passages:
+        return err(400, "Keine Passagen gefunden.")
+    if len(passages) > MAX_BATCH_PASSAGES:
+        return err(413, f"Zu viele Passagen (max. {MAX_BATCH_PASSAGES} pro Anfrage).")
+    if any(len(p) > MAX_INPUT_CHARS for p in passages):
+        return err(413, f"Eine Passage ist zu lang (max. {MAX_INPUT_CHARS} Zeichen).")
+
+    ok, why = limiter.check_ip(ip)
+    if not ok:
+        return err(429, why)
+    if not await verify_turnstile(body.turnstile_token, ip, request.app.state.http):
+        return err(403, "Bot-Prüfung fehlgeschlagen. Bitte Seite neu laden.")
+
+    results = []
+    deadline = time.time() + BATCH_WALL_SECONDS
+    skipped = 0
+    for p in passages:
+        if time.time() > deadline:
+            skipped += 1
+            continue
+        if not limiter.reserve_global():
+            skipped += 1
+            continue
+        result, status = await _run_model(p, request.app.state.http)
+        if status == "connect_error":
+            limiter.release_global()
+            results.append({"passage": p, "ok": False, "error": "Modell nicht erreichbar."})
+        elif status == "upstream_error":
+            results.append({"passage": p, "ok": False, "error": "Modellfehler."})
+        elif not result:
+            results.append({"passage": p, "ok": True, "classified": False})
+        else:
+            results.append({"passage": p, "ok": True, "classified": True,
+                            "id": result["id"], "name": result["name"],
+                            "dimension": result["dimension"],
+                            "alternativen": ",".join(a["id"] for a in result["alternativen"])})
+    log.info("batch ip=%s n=%d done=%d skipped=%d", iphash(ip), len(passages), len(results), skipped)
+    return _cors(JSONResponse({"ok": True, "n": len(passages), "results": results,
+                               "skipped": skipped, "model": MODEL_DISPLAY,
+                               "note": "Einzelabfragen bei niedriger Temperatur; die Paper-Zahlen "
+                                       "beruhen auf 5-Seed-Mehrheitsentscheid (temp 0.7)."}))
 
 def parse_and_validate(content: str) -> dict | None:
     """Extract {id, alternativen, begruendung} and validate the id against the 27 categories."""
